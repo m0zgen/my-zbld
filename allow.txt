@@ -11,3 +11,5 @@ bitbucket.org
 egov.kz
 kaspi.kz
 
+# Test
+googlesyndication.com
