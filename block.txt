@@ -1,7 +1,9 @@
+# Blocked Domains List
+
 # [ Regex rules ]
 /(^|^.*\.)example.(com|net)$/
 
 # [ Domain rules ]
 example.com
 ads.linkedin.com
-
+googlesyndication.com
