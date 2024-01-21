@@ -1,0 +1,6 @@
+# [ Regex rules ]
+/(^|^.*\.)example.(com|net)$/
+
+# [ Domain rules ]
+example.com
+
