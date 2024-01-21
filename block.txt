@@ -3,4 +3,5 @@
 
 # [ Domain rules ]
 example.com
+ads.linkedin.com
 
