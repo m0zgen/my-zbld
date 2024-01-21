@@ -11,5 +11,5 @@ bitbucket.org
 egov.kz
 kaspi.kz
 
-# Test
+# Test permanent
 googlesyndication.com
