@@ -1,3 +1,5 @@
+# Allowed Domains List
+
 # [ Regex rules ]
 /(^|^.*\.)google.(com)$/
 /(^|^.*\.)yahoo.(com)$/
