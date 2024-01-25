@@ -2,6 +2,7 @@
 
 # [ Regex rules ]
 /(^|^.*\.)google.(com)$/
+/(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)yahoo.(com)$/
 /(^|^.*\.)yandex\.(ru|com|net|kz)$/
 /(^|^.*\.)openbld.(net)$/
@@ -14,4 +15,4 @@ egov.kz
 kaspi.kz
 
 # Test permanent
-googlesyndication.com
+# googlesyndication.com
