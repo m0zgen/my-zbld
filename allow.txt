@@ -5,7 +5,6 @@
 /(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)yahoo.(com)$/
 /(^|^.*\.)atlassian.(com)$/
-/(^|^.*\.)yandex\.(ru|com|net|kz)$/
 /(^|^.*\.)openbld.(net)$/
 /(^|^.*\.)sys-adm.(in)$/
 /(^|^.*\.)sysconf.(io)$/
