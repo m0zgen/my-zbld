@@ -13,3 +13,4 @@ example.com
 www.test.de
 test.de
 cdn.asp.events
+an.yandex.ru
