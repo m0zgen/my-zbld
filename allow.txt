@@ -4,7 +4,6 @@
 /(^|^.*\.)google.(com)$/
 /(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)yahoo.(com)$/
-/(^|^.*\.)atlassian.(com)$/
 /(^|^.*\.)openbld.(net)$/
 /(^|^.*\.)sys-adm.(in)$/
 /(^|^.*\.)sysconf.(io)$/
@@ -15,4 +14,4 @@
 bitbucket.org
 
 # Test permanent
-googlesyndication.com
+# googlesyndication.com
