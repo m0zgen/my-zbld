@@ -15,4 +15,4 @@
 bitbucket.org
 
 # Test permanent
-# googlesyndication.com
+googlesyndication.com
