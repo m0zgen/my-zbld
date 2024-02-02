@@ -2,16 +2,16 @@
 
 # [ Regex rules ]
 /(^|^.*\.)google.(com)$/
+/(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)yahoo.(com)$/
-/(^|^.*\.)yandex\.(ru|com|net|kz)$/
 /(^|^.*\.)openbld.(net)$/
 /(^|^.*\.)sys-adm.(in)$/
 /(^|^.*\.)sysconf.(io)$/
+/(^|^.*\.)kaspi.(kz)$/
+/(^|^.*\.)egov.(kz)$/
 
 # [ Domain rules ]
 bitbucket.org
-egov.kz
-kaspi.kz
 
 # Test permanent
-googlesyndication.com
+# googlesyndication.com

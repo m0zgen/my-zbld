@@ -1,9 +1,16 @@
 # Blocked Domains List
 
 # [ Regex rules ]
+/(^|^.*\.)googlesyndication.(com)$/
+/(^|^.*\.)google-analytics.(com)$/
 /(^|^.*\.)example.(com|net)$/
+/(^|^.*\.)ads.adfox.(ru)$/
 
 # [ Domain rules ]
-example.com
+euc-word-telemetry.officeapps.live.com
 ads.linkedin.com
-googlesyndication.com
+example.com
+www.test.de
+test.de
+cdn.asp.events
+an.yandex.ru
