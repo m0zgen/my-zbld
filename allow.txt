@@ -1,14 +1,20 @@
 # Allowed Domains List
 
-# [ Regex rules ]
-/(^|^.*\.)google.(com)$/
-/(^|^.*\.)hcaptcha.(com)$/
+# [ Global Regex ]
+/(^|^.*\.)google\.(com|net|kz|de|lv)$/
+/(^|^.*\.)yandex\.(ru|com|net|st|kz)$/
 /(^|^.*\.)yahoo.(com)$/
+/(^|^.*\.)hcaptcha.(com)$/
+
+# [ My Services ]
 /(^|^.*\.)openbld.(net)$/
 /(^|^.*\.)sys-adm.(in)$/
 /(^|^.*\.)sysconf.(io)$/
+
+# [ Kz Services ]
 /(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)egov.(kz)$/
+/(^|^.*\.)gov.(kz)$/
 
 # [ Domain rules ]
 bitbucket.org
