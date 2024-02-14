@@ -6,6 +6,9 @@
 /(^|^.*\.)yahoo.(com)$/
 /(^|^.*\.)hcaptcha.(com)$/
 
+# [ Vendors ]
+/(^|^.*\.)apple\.com$/
+
 # [ My Services ]
 /(^|^.*\.)openbld.(net)$/
 /(^|^.*\.)sys-adm.(in)$/
