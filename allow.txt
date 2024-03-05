@@ -15,6 +15,7 @@
 /(^|^.*\.)sysconf.(io)$/
 
 # [ Kz Services ]
+/(^|^.*\.)bankrbk.(kz)$/
 /(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)egov.(kz)$/
 /(^|^.*\.)gov.(kz)$/
