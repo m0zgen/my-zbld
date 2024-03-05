@@ -13,5 +13,10 @@
 # [ Domain rules ]
 bitbucket.org
 
+# [ Some think ]
+trk.mail.ru
+r3.mail.ru
+st.mycdn.me
+
 # Test permanent
 # googlesyndication.com
