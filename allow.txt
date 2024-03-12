@@ -2,12 +2,18 @@
 
 # [ Global Regex ]
 /(^|^.*\.)google\.(com|net|kz|de|lv)$/
+/(^|^.*\.)googleusercontent\.com$/
+/(^|^.*\.)hcaptcha.(com)$/
+/(^|^.*\.)(linkedin|licdn.com)\.com$/
 /(^|^.*\.)yandex\.(ru|com|net|st|kz)$/
 /(^|^.*\.)yahoo.(com)$/
-/(^|^.*\.)hcaptcha.(com)$/
 
 # [ Vendors ]
 /(^|^.*\.)apple\.com$/
+/(^|^.*\.)azure\.com$/
+/(^|^.*\.)microsoft\.com$/
+/(^|^.*\.)microsoftonline\.com$/
+/(^|^.*\.)msn\.com$/
 
 # [ My Services ]
 /(^|^.*\.)openbld.(net)$/
@@ -17,6 +23,7 @@
 # [ Kz Services ]
 /(^|^.*\.)bankrbk.(kz)$/
 /(^|^.*\.)kaspi.(kz)$/
+/(^|^.*\.)cdn-kaspi\.kz$/
 /(^|^.*\.)egov.(kz)$/
 /(^|^.*\.)gov.(kz)$/
 
