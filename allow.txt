@@ -6,6 +6,7 @@
 /(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)(linkedin|licdn.com)\.com$/
 /(^|^.*\.)yandex\.(ru|com|net|st|kz)$/
+/(^|^.*\.)yandex-bank\.net$/
 /(^|^.*\.)yahoo.(com)$/
 
 # [ Vendors ]
@@ -30,10 +31,13 @@
 # [ Domain rules ]
 bitbucket.org
 
-# [ Some think ]
+# [ Socials ]
 trk.mail.ru
 r3.mail.ru
 st.mycdn.me
 
 # Test permanent
 # googlesyndication.com
+/(^|^[a-z]{2,}\.)googleadservices\.com$/
+/(^|^ad\.)doubleclick\.net$/
+/(^|^.*\.)akamai\.net$/
