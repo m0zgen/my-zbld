@@ -4,7 +4,7 @@
 /(^|^.*\.)google\.(com|net|kz|de|lv)$/
 /(^|^.*\.)googleusercontent\.com$/
 /(^|^.*\.)hcaptcha.(com)$/
-/(^|^.*\.)(linkedin|licdn.com)\.com$/
+/(^|^.*\.)(linkedin|licdn)\.com$/
 /(^|^.*\.)yandex\.(ru|com|net|st|kz)$/
 /(^|^.*\.)yandex-bank\.net$/
 /(^|^.*\.)yahoo.(com)$/
