@@ -5,9 +5,7 @@
 /(^|^.*\.)googleusercontent\.com$/
 /(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)(linkedin|licdn)\.com$/
-/(^|^.*\.)yandex\.(ru|com|net|st|kz)$/
-/(^|^.*\.)yandex-bank\.net$/
-/(^|^.*\.)yahoo.(com)$/
+/(^|^.*\.)yahoo\.(com)$/
 
 # [ Vendors ]
 /(^|^.*\.)apple\.com$/
@@ -15,6 +13,15 @@
 /(^|^.*\.)microsoft\.com$/
 /(^|^.*\.)microsoftonline\.com$/
 /(^|^.*\.)msn\.com$/
+
+# [ Yandex ]
+/(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
+/(^|^.*\.)yandex\.com\.(ru|tr)$/
+/(^|^.*\.)yandex-net\.ru$/
+/(^|^.*\.)yastatic\.net$/
+/(^|^.*\.)yandexgo\.com$/
+/(^|^.*\.)ya\.ru$/
+/(^|^.*\.)yandex-bank\.net$/
 
 # [ My Services ]
 /(^|^.*\.)openbld.(net)$/
