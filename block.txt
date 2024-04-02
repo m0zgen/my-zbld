@@ -8,9 +8,17 @@
 
 # [ Domain rules ]
 euc-word-telemetry.officeapps.live.com
-ads.linkedin.com
-example.com
-www.test.de
-test.de
-cdn.asp.events
+ssl.google-analytics.com
+doubleclick.net
+ad.doubleclick.net
+appmetrica.yandex.com
 an.yandex.ru
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+analytics.tiktok.com
+analytics-sg.tiktok.com
+
+# [ More domains ]
+example.com
+cdn.asp.events
+
