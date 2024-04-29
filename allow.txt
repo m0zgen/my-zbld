@@ -15,8 +15,8 @@
 /(^|^.*\.)msn\.com$/
 
 # [ Yandex ]
-/(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
-/(^|^.*\.)yandex\.com\.(ru|tr)$/
+# /(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
+# /(^|^.*\.)yandex\.com\.(ru|tr)$/
 /(^|^.*\.)yandex-net\.ru$/
 /(^|^.*\.)yastatic\.net$/
 /(^|^.*\.)yandexgo\.com$/
