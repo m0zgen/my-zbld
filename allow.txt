@@ -40,7 +40,8 @@
 # [ Domain rules ]
 bitbucket.org
 
-# [ Socials ]
+# [ Socials / Jobs ]
+/(^|^.*\.)hh.([a-z]{2,})$/
 trk.mail.ru
 r3.mail.ru
 st.mycdn.me
@@ -50,3 +51,6 @@ st.mycdn.me
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
 /(^|^.*\.)akamai\.net$/
+/(^|^.*\.)unity3d\.com$/
+# /(^|^.*\.)akadns\.net$/
+# /(^|^.*\.)fastly\.net$/
