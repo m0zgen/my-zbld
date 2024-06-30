@@ -13,6 +13,8 @@
 /(^|^.*\.)microsoft\.com$/
 /(^|^.*\.)microsoftonline\.com$/
 /(^|^.*\.)msn\.com$/
+/(^|^.*\.)x\.com$/
+/(^|^.*\.)twimg\.com$/
 
 # [ Yandex ]
 # /(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
