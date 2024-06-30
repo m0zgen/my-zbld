@@ -52,5 +52,6 @@ st.mycdn.me
 /(^|^ad\.)doubleclick\.net$/
 /(^|^.*\.)akamai\.net$/
 /(^|^.*\.)unity3d\.com$/
+/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
