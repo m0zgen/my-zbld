@@ -42,6 +42,8 @@ bitbucket.org
 
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
+log.dzen.ru
+cdn.dzen.ru
 trk.mail.ru
 r3.mail.ru
 st.mycdn.me
