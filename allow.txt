@@ -24,6 +24,7 @@
 /(^|^.*\.)yandexgo\.com$/
 /(^|^.*\.)ya\.ru$/
 /(^|^.*\.)yandex-bank\.net$/
+/(^|^.*\.)yandexmetrica\.com$/
 
 # [ My Services ]
 /(^|^.*\.)openbld.(net)$/
@@ -37,9 +38,6 @@
 /(^|^.*\.)egov.(kz)$/
 /(^|^.*\.)gov.(kz)$/
 
-# [ Domain rules ]
-bitbucket.org
-
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
 log.dzen.ru
@@ -48,11 +46,14 @@ trk.mail.ru
 r3.mail.ru
 st.mycdn.me
 
+# [ Services ]
+/(^|^.*\.)ntp.org$/
+/[a-z]{1,}.root-servers.net$/
+
 # Test permanent
 # googlesyndication.com
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
-/(^|^.*\.)akamai\.net$/
 /(^|^.*\.)akamai\.net$/
 /(^|^.*\.)unity3d\.com$/
 /(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
@@ -60,12 +61,10 @@ st.mycdn.me
 # /(^|^.*\.)fastly\.net$/
 
 # Basic commons
-/(^|^.*\.)(linkedin|licdn)\.com$/
 /(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$/
 /(^|^.*\.)1xbet\.(kz|com)$/
 /(^|^.*\.)accuweather\.com$/
 /(^|^.*\.)aka\.ms$/
-/(^|^.*\.)akamai\.net$/
 /(^|^.*\.)aliexpress\.com$/
 /(^|^.*\.)amazon\.(com|de)$/
 /(^|^.*\.)apple-dns\.net$/
@@ -102,9 +101,6 @@ st.mycdn.me
 /(^|^.*\.)live\.com$/
 /(^|^.*\.)mc\.admetrica\.ru$/
 /(^|^.*\.)medium\.com$/
-/(^|^.*\.)microsoft\.com$/
-/(^|^.*\.)microsoftonline\.com$/
-/(^|^.*\.)msn\.com$/
 /(^|^.*\.)nessus\.org$/
 /(^|^.*\.)netflix\.com$/
 /(^|^.*\.)office365\.com$/
@@ -132,26 +128,13 @@ st.mycdn.me
 /(^|^.*\.)sysconf\.io$/
 /(^|^.*\.)t\.me$/
 /(^|^.*\.)telegram\.org$/
-/(^|^.*\.)twimg\.com$/
 /(^|^.*\.)twitch\.tv$/
 /(^|^.*\.)twitter\.com$/
-/(^|^.*\.)vdsina\.(ru|com)$/
 /(^|^.*\.)vk\.com$/
 /(^|^.*\.)weather\.com$/
 /(^|^.*\.)webvisor\.(com|org)$/
 /(^|^.*\.)whatsapp\.com$/
 /(^|^.*\.)wikipedia\.org$/
-/(^|^.*\.)wildberries\.(eu|ru|by)$/
-/(^|^.*\.)x\.com$/
 /(^|^.*\.)xhcdn\.com$/
-/(^|^.*\.)yandex-bank\.net$/
-/(^|^.*\.)yandex\.(ru|com|net|st|md|kz|cloud)$/
-/(^|^.*\.)yandexmetrica\.com$/
 /(^|^.*\.)youtu\.be$/
 /(^|^.*\.)zoom\.us$/
-/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
-/(^|^[a-z]{2,}.|[1-10]{1,}\.)pool\.ntp\.org$/
-/(^|^[a-z]{2,}\.)googleadservices\.com$/
-/(^|^ad\.)doubleclick\.net$/
-/[a-z]{1,}.root-servers\.net$/
-/^[0-9]{1,}.android\.pool\.ntp\.org$/
