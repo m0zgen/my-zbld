@@ -1,30 +1,55 @@
 # Allowed Domains List
 
 # [ Global Regex ]
-/(^|^.*\.)google\.(com|net|kz|de|lv)$/
-/(^|^.*\.)googleusercontent\.com$/
-/(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)(linkedin|licdn)\.com$/
-/(^|^.*\.)yahoo\.(com)$/
-
-# [ Vendors ]
+/(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$/
+/(^|^.*\.)accuweather\.com$/
+/(^|^.*\.)apple-dns\.net$/
 /(^|^.*\.)apple\.com$/
 /(^|^.*\.)azure\.com$/
+/(^|^.*\.)cdnvideo\.(ru)$/
+/(^|^.*\.)facebook\.(com|net)$/
+/(^|^.*\.)gmail\.com$/
+/(^|^.*\.)google\.(com|net|kz|de|lv)$/
+/(^|^.*\.)googleusercontent\.com$/
+/(^|^.*\.)googleusercontent\.com$/
+/(^|^.*\.)gstatic\.com$/
+/(^|^.*\.)hcaptcha.(com)$/
+/(^|^.*\.)hcaptcha\.com$/
+/(^|^.*\.)icloud\.com$/
+/(^|^.*\.)instagram\.com$/
+/(^|^.*\.)ivi\.(ru|tv)$/
+/(^|^.*\.)kinopoisk\.ru$/
 /(^|^.*\.)microsoft\.com$/
 /(^|^.*\.)microsoftonline\.com$/
 /(^|^.*\.)msn\.com$/
-/(^|^.*\.)x\.com$/
+/(^|^.*\.)nessus\.org$/
+/(^|^.*\.)office365\.com$/
+/(^|^.*\.)office\.com$/
+/(^|^.*\.)openai\.com$/
+/(^|^.*\.)pikabu\.ru$/
+/(^|^.*\.)pinterest\.com$/
+/(^|^.*\.)powerbi.com$/
+/(^|^.*\.)sharepoint\.com$/
+/(^|^.*\.)t\.me$/
+/(^|^.*\.)telegram\.org$/
 /(^|^.*\.)twimg\.com$/
+/(^|^.*\.)weather\.com$/
+/(^|^.*\.)x\.com$/
+/(^|^.*\.)yahoo\.(com)$/
+/(^|^.*\.)youtu\.be$/
 
 # [ Yandex ]
-/(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
-/(^|^.*\.)yandex\.com\.(ru|tr)$/
-/(^|^.*\.)yandex-net\.ru$/
-/(^|^.*\.)yastatic\.net$/
-/(^|^.*\.)yandexgo\.com$/
+/(^|^.*\.)mc\.admetrica\.ru$/
+/(^|^.*\.)webvisor\.(com|org)$/
 /(^|^.*\.)ya\.ru$/
 /(^|^.*\.)yandex-bank\.net$/
+/(^|^.*\.)yandex-net\.ru$/
+/(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
+/(^|^.*\.)yandex\.com\.(ru|tr)$/
+/(^|^.*\.)yandexgo\.com$/
 /(^|^.*\.)yandexmetrica\.com$/
+/(^|^.*\.)yastatic\.net$/
 
 # [ My Services ]
 /(^|^.*\.)openbld.(net)$/
@@ -33,108 +58,31 @@
 
 # [ Kz Services ]
 /(^|^.*\.)bankrbk.(kz)$/
-/(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)cdn-kaspi\.kz$/
 /(^|^.*\.)egov.(kz)$/
 /(^|^.*\.)gov.(kz)$/
+/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
+/(^|^.*\.)halykbank\.kz$/
+/(^|^.*\.)kaspi.(kz)$/
 
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
-log.dzen.ru
 cdn.dzen.ru
-trk.mail.ru
+log.dzen.ru
 r3.mail.ru
 st.mycdn.me
+trk.mail.ru
 
 # [ Services ]
 /(^|^.*\.)ntp.org$/
 /[a-z]{1,}.root-servers.net$/
 
 # Test permanent
+# /(^|^.*\.)akadns\.net$/
+# /(^|^.*\.)fastly\.net$/
 # googlesyndication.com
-/(^|^[a-z]{2,}\.)googleadservices\.com$/
-/(^|^ad\.)doubleclick\.net$/
 /(^|^.*\.)akamai\.net$/
 /(^|^.*\.)unity3d\.com$/
 /(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
-# /(^|^.*\.)akadns\.net$/
-# /(^|^.*\.)fastly\.net$/
-
-# Basic commons
-/(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$/
-/(^|^.*\.)1xbet\.(kz|com)$/
-/(^|^.*\.)accuweather\.com$/
-/(^|^.*\.)aka\.ms$/
-/(^|^.*\.)aliexpress\.com$/
-/(^|^.*\.)amazon\.(com|de)$/
-/(^|^.*\.)apple-dns\.net$/
-/(^|^.*\.)apple\.com$/
-/(^|^.*\.)avito\.(ru|st)$/
-/(^|^.*\.)azure\.com$/
-/(^|^.*\.)binance\.com$/
-/(^|^.*\.)bing\.com$/
-/(^|^.*\.)booking\.com$/
-/(^|^.*\.)canva\.com$/
-/(^|^.*\.)cdn-kaspi\.kz$/
-/(^|^.*\.)cdnvideo\.(ru)$/
-/(^|^.*\.)cloudflare\.com$/
-/(^|^.*\.)digitalocean\.com$/
-/(^|^.*\.)discord\.com$/
-/(^|^.*\.)duckduckgo\.com$/
-/(^|^.*\.)ebay\.com$/
-/(^|^.*\.)eubank\.kz$/
-/(^|^.*\.)facebook\.(com|net)$/
-/(^|^.*\.)gmail\.com$/
-/(^|^.*\.)google\.(com|net|kz|de|lv)$/
-/(^|^.*\.)googleusercontent\.com$/
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
-/(^|^.*\.)gstatic\.com$/
-/(^|^.*\.)halykbank\.kz$/
-/(^|^.*\.)hcaptcha\.com$/
-/(^|^.*\.)icloud\.com$/
-/(^|^.*\.)instagram\.com$/
-/(^|^.*\.)investing\.com$/
-/(^|^.*\.)ivi\.(ru|tv)$/
-/(^|^.*\.)kaspi\.kz$/
-/(^|^.*\.)kinopoisk\.ru$/
-/(^|^.*\.)lg\.com$/
-/(^|^.*\.)live\.com$/
-/(^|^.*\.)mc\.admetrica\.ru$/
-/(^|^.*\.)medium\.com$/
-/(^|^.*\.)nessus\.org$/
-/(^|^.*\.)netflix\.com$/
-/(^|^.*\.)office365\.com$/
-/(^|^.*\.)office\.com$/
-/(^|^.*\.)openai\.com$/
-/(^|^.*\.)openbld\.net$/
-/(^|^.*\.)opera\.com$/
-/(^|^.*\.)phncdn\.com$/
-/(^|^.*\.)pikabu\.ru$/
-/(^|^.*\.)pinterest\.com$/
-/(^|^.*\.)powerbi.com$/
-/(^|^.*\.)quora\.com$/
-/(^|^.*\.)qwant\.com$/
-/(^|^.*\.)reddit\.com$/
-/(^|^.*\.)roblox\.com$/
-/(^|^.*\.)samsung\.com$/
-/(^|^.*\.)sharepoint\.com$/
-/(^|^.*\.)snapchat\.com$/
-/(^|^.*\.)spotify\.com$/
-/(^|^.*\.)stackexchange\.com$/
-/(^|^.*\.)stackoverflow\.com$/
-/(^|^.*\.)steamcommunity\.com$/
-/(^|^.*\.)steampowered\.com$/
-/(^|^.*\.)sys-adm\.in$/
-/(^|^.*\.)sysconf\.io$/
-/(^|^.*\.)t\.me$/
-/(^|^.*\.)telegram\.org$/
-/(^|^.*\.)twitch\.tv$/
-/(^|^.*\.)twitter\.com$/
-/(^|^.*\.)vk\.com$/
-/(^|^.*\.)weather\.com$/
-/(^|^.*\.)webvisor\.(com|org)$/
-/(^|^.*\.)whatsapp\.com$/
-/(^|^.*\.)wikipedia\.org$/
-/(^|^.*\.)xhcdn\.com$/
-/(^|^.*\.)youtu\.be$/
-/(^|^.*\.)zoom\.us$/
+/(^|^[a-z]{2,}\.)googleadservices\.com$/
+/(^|^ad\.)doubleclick\.net$/
