@@ -12,9 +12,7 @@
 /(^|^.*\.)gmail\.com$/
 /(^|^.*\.)google\.(com|net|kz|de|lv)$/
 /(^|^.*\.)googleusercontent\.com$/
-/(^|^.*\.)googleusercontent\.com$/
 /(^|^.*\.)gstatic\.com$/
-/(^|^.*\.)hcaptcha.(com)$/
 /(^|^.*\.)hcaptcha\.com$/
 /(^|^.*\.)icloud\.com$/
 /(^|^.*\.)instagram\.com$/
@@ -22,7 +20,6 @@
 /(^|^.*\.)kinopoisk\.ru$/
 /(^|^.*\.)microsoft\.com$/
 /(^|^.*\.)microsoftonline\.com$/
-/(^|^.*\.)msn\.com$/
 /(^|^.*\.)nessus\.org$/
 /(^|^.*\.)office365\.com$/
 /(^|^.*\.)office\.com$/
