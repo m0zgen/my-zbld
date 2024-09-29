@@ -70,6 +70,13 @@ r3.mail.ru
 st.mycdn.me
 trk.mail.ru
 
+# [ Games ]
+# bytegsdk.com
+# www.bytegsdk.com
+log-va.bytegsdk.com
+# gsdk-va.bytegsdk.com
+# bsdk-sg.bytegsdk.com
+
 # [ Services ]
 /(^|^.*\.)ntp.org$/
 /[a-z]{1,}.root-servers.net$/
