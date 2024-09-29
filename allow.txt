@@ -74,8 +74,8 @@ trk.mail.ru
 # bytegsdk.com
 # www.bytegsdk.com
 log-va.bytegsdk.com
-# gsdk-va.bytegsdk.com
-# bsdk-sg.bytegsdk.com
+gsdk-va.bytegsdk.com
+bsdk-sg.bytegsdk.com
 
 # [ Services ]
 /(^|^.*\.)ntp.org$/
