@@ -77,6 +77,20 @@ log-va.bytegsdk.com
 gsdk-va.bytegsdk.com
 bsdk-sg.bytegsdk.com
 
+# Unity
+/(^|^.*\.)cloud.unity3d.com$/
+/(^|^.*\.)ecommerce.iap.unity3d.com$/
+/(^|^.*\.)internal.unity3d.com$/
+/(^|^.*\.)isx.unity3d.com$/
+/(^|^.*\.)mediation.unity3d.com$/
+/(^|^.*\.)mz.unity3d.com$/
+/(^|^.*\.)offerwall.unity3d.com$/
+/(^|^.*\.)stats.unity3d.com$/
+
+# Testing
+operate-sdk-telemetry.unity3d.com
+collect.analytics.unity3d.com
+
 # [ Services ]
 /(^|^.*\.)ntp.org$/
 /[a-z]{1,}.root-servers.net$/
@@ -84,9 +98,9 @@ bsdk-sg.bytegsdk.com
 # Test permanent
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
+# /(^|^.*\.)unity3d\.com$/
 # googlesyndication.com
 /(^|^.*\.)akamai\.net$/
-/(^|^.*\.)unity3d\.com$/
 /(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
