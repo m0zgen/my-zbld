@@ -90,7 +90,16 @@ bsdk-sg.bytegsdk.com
 # Testing
 operate-sdk-telemetry.unity3d.com
 collect.analytics.unity3d.com
+
+# Clickup
 analytics.ringostat.net
+firstpromoter.com
+cdn.firstpromoter.com
+ct.capterra.com
+pendo.io
+cdn.pendo.io
+app.pendo.io
+cdn.pdst.fm
 
 # [ Services ]
 /(^|^.*\.)ntp.org$/
