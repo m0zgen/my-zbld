@@ -114,3 +114,7 @@ cdn.pdst.fm
 /(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
+
+# Game Testing
+dullwave.ru
+
