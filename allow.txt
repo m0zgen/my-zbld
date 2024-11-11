@@ -115,6 +115,7 @@ cdn.pdst.fm
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
 
-# Game Testing
+# Testing
 dullwave.ru
+telemetry.elastic.co
 
