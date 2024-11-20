@@ -118,4 +118,5 @@ cdn.pdst.fm
 # Testing
 dullwave.ru
 telemetry.elastic.co
+optimizationguide-pa.googleapis.com
 
