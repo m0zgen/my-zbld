@@ -22,3 +22,6 @@ analytics-sg.tiktok.com
 example.com
 cdn.asp.events
 
+# [ Testing ]
+yt3.ggpht.com
+
