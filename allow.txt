@@ -119,4 +119,6 @@ cdn.pdst.fm
 dullwave.ru
 telemetry.elastic.co
 optimizationguide-pa.googleapis.com
-
+# LightNode mail links
+pstmrk.it
+click.pstmrk.it
