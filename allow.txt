@@ -117,6 +117,7 @@ cdn.pdst.fm
 
 # Testing
 dullwave.ru
+lobfile.com
 telemetry.elastic.co
 optimizationguide-pa.googleapis.com
 # LightNode mail links
