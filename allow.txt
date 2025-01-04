@@ -129,6 +129,7 @@ trk.mail.ru
 
 # [ Games ]
 /(^|^.*\.)easebar.com$/
+/(^|^.*\.)appcenter.ms$/
 # bytegsdk.com
 # www.bytegsdk.com
 log-va.bytegsdk.com
