@@ -128,11 +128,13 @@ st.mycdn.me
 trk.mail.ru
 
 # [ Games ]
+/(^|^.*\.)easebar.com$/
 # bytegsdk.com
 # www.bytegsdk.com
 log-va.bytegsdk.com
 gsdk-va.bytegsdk.com
 bsdk-sg.bytegsdk.com
+
 
 # Unity
 /(^|^.*\.)cloud.unity3d.com$/
