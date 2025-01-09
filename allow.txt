@@ -116,6 +116,7 @@
 /(^|^.*\.)gov.(kz)$/
 /(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
 /(^|^.*\.)halykbank\.kz$/
+/(^|^.*\.)halykfinance.kz$/
 /(^|^.*\.)kaspi.(kz)$/
 /(^|^.*\.)cdn-kaspi\.kz$/
 
