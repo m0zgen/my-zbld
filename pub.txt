@@ -38,7 +38,6 @@
 /(^|^.*\.)cdn-kaspi\.kz$/
 /(^|^.*\.)(linkedin|licdn)\.com$/
 /(^|^.*\.)live\.com$/
-/(^|^.*\.)lg\.com$/
 /(^|^.*\.)medium\.com$/
 /(^|^.*\.)microsoft\.com$/
 /(^|^.*\.)microsoftonline\.com$/
@@ -57,7 +56,6 @@
 /(^|^.*\.)qwant\.com$/
 /(^|^.*\.)reddit\.com$/
 /(^|^.*\.)roblox\.com$/
-/(^|^.*\.)samsung\.com$/
 /(^|^.*\.)sharepoint\.com$/
 /(^|^.*\.)snapchat\.com$/
 /(^|^.*\.)spotify\.com$/
@@ -74,12 +72,9 @@
 /(^|^.*\.)twitter\.com$/
 /(^|^.*\.)x\.com$/
 /(^|^.*\.)twimg\.com$/
-/(^|^.*\.)vdsina\.(ru|com)$/
-/(^|^.*\.)vk\.com$/
 /(^|^.*\.)weather\.com$/
 /(^|^.*\.)whatsapp\.com$/
 /(^|^.*\.)wikipedia\.org$/
-/(^|^.*\.)wildberries\.(eu|ru|by)$/
 /(^|^.*\.)yandex\.(ru|com|net|st|md|kz|cloud)$/
 /(^|^.*\.)yandex-bank\.net$/
 /(^|^.*\.)youtu\.be$/
