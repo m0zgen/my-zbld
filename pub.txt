@@ -87,12 +87,14 @@
 /(^|^[a-z]{2,}\.)googleadservices\.com$/
 /(^|^ad\.)doubleclick\.net$/
 
-# Testing
-/(^|^.*\.)1xbet\.(kz|com)$/
-/(^|^.*\.)phncdn\.com$/
-/(^|^.*\.)xhcdn\.com$/
-
 # Yandex Cloud
 /(^|^.*\.)mc\.admetrica\.ru$/
 /(^|^.*\.)webvisor\.(com|org)$/
 /(^|^.*\.)yandexmetrica\.com$/
+
+# Testing
+/(^|^.*\.)1xbet\.(kz|com)$/
+/(^|^.*\.)phncdn\.com$/
+/(^|^.*\.)xhcdn\.com$/
+example.com
+*.example.com
