@@ -98,3 +98,9 @@
 /(^|^.*\.)xhcdn\.com$/
 example.com
 *.example.com
+
+# MS
+/(^|^.*\.)office\.net$/
+/(^|^.*\.)microsoftonline\.com$/
+/(^|^.*\.)microsoft\.com$/
+
