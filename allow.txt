@@ -156,6 +156,7 @@ bsdk-sg.bytegsdk.com
 operate-sdk-telemetry.unity3d.com
 collect.analytics.unity3d.com
 
+# Platforms
 # Clickup
 analytics.ringostat.net
 firstpromoter.com
@@ -165,6 +166,10 @@ pendo.io
 cdn.pendo.io
 app.pendo.io
 cdn.pdst.fm
+# Exponea
+exponea.com
+www.exponea.com
+amway-cdn.exponea.com
 
 # [ Services ]
 /(^|^.*\.)ntp.org$/
