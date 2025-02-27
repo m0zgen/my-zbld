@@ -1,0 +1,24 @@
+# cdn patterns
+.cloudflare.
+.akamai.
+.fastly.
+.edgesuite.
+.cdn.
+.edgekey.net.
+.llnwd.net.
+.googleusercontent.com.
+.cdn77.
+.cedexis.net.
+.highwinds-cdn.
+.vdms.io.
+.cachefly.net.
+.instartlogic.net.
+.edgecastcdn.net.
+.kinxcdn.com.
+.mileweb.
+.netdna-cdn.com.
+.panthercdn.com.
+.bitgravity.com.
+.azureedge.net.
+.amazonaws.com.
+.cloudfront.net.
