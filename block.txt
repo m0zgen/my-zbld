@@ -9,6 +9,10 @@
 # [ Domain rules ]
 euc-word-telemetry.officeapps.live.com
 ssl.google-analytics.com
+adservice.google.com
+ad.doubleclick.net
+analytics.google.com
+ssl.google-analytics.com
 doubleclick.net
 ad.doubleclick.net
 appmetrica.yandex.com
@@ -17,6 +21,42 @@ ads.linkedin.com
 analytics.pointdrive.linkedin.com
 analytics.tiktok.com
 analytics-sg.tiktok.com
+ads-api.twitter.com
+pixel.facebook.com
+an.facebook.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+ads.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+events.reddit.com
+ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+adfox.yandex.ru
+ads.yahoo.com
+analytics.yahoo.com
+geo.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
+gemini.yahoo.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+iadsdk.apple.com
+metrics.mzstatic.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
 
 # [ More domains ]
 example.com
