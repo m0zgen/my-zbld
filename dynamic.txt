@@ -25,3 +25,4 @@
 .panthercdn.com.
 .vdms.io.
 cdn.
+.strm.
