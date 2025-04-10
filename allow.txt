@@ -15,6 +15,7 @@
 /(^|^.*\.)cloudflare\.com$/
 /(^|^.*\.)facebook\.(com|net)$/
 /(^|^.*\.)gmail\.com$/
+/(^|^.*\.)ggpht\.com$/
 /(^|^.*\.)google\.(com|net|kz|de|lv)$/
 /(^|^.*\.)googleusercontent\.com$/
 /(^|^.*\.)gstatic\.com$/
