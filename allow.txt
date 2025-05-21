@@ -1,126 +1,131 @@
 # Allowed Domains List
 
 # [ Global Regex ]
-/(^|^.*\.)(linkedin|licdn)\.com$/
-/(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$/
-/(^|^.*\.)accuweather\.com$/
-/(^|^.*\.)akamai\.net$/
-/(^|^.*\.)apple-dns\.net$/
-/(^|^.*\.)apple\.com$/
-/(^|^.*\.)azure\.com$/
-/(^|^.*\.)binance\.com$/
-/(^|^.*\.)bing\.com$/
-/(^|^.*\.)cdn.whatsapp\.net$/
-/(^|^.*\.)cdnvideo\.(ru)$/
-/(^|^.*\.)cloudflare\.com$/
-/(^|^.*\.)facebook\.(com|net)$/
-/(^|^.*\.)gmail\.com$/
-/(^|^.*\.)ggpht\.com$/
-/(^|^.*\.)google\.(com|net|kz|de|lv)$/
-/(^|^.*\.)googleusercontent\.com$/
-/(^|^.*\.)gstatic\.com$/
-/(^|^.*\.)hcaptcha\.com$/
-/(^|^.*\.)icloud\.com$/
-/(^|^.*\.)instagram\.com$/
-/(^|^.*\.)ivi\.(ru|tv)$/
-/(^|^.*\.)kinopoisk\.ru$/
-/(^|^.*\.)live\.com$/
-/(^|^.*\.)microsoft\.com$/
-/(^|^.*\.)microsoftonline\.com$/
-/(^|^.*\.)msn\.com$/
-/(^|^.*\.)nessus\.org$/
-/(^|^.*\.)netflix\.com$/
-/(^|^.*\.)office365\.com$/
-/(^|^.*\.)office\.com$/
-/(^|^.*\.)openai\.com$/
-/(^|^.*\.)pikabu\.ru$/
-/(^|^.*\.)pinterest\.com$/
-/(^|^.*\.)powerbi.com$/
-/(^|^.*\.)sharepoint\.com$/
-/(^|^.*\.)t\.me$/
-/(^|^.*\.)telegram\.org$/
-/(^|^.*\.)twimg\.com$/
-/(^|^.*\.)weather\.com$/
-/(^|^.*\.)x\.com$/
-/(^|^.*\.)yahoo\.(com)$/
-/(^|^.*\.)youtu\.be$/
-/(^|^.*\.)zoom\.us$/
-/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
+/(?:^|\.)linkedin\.com$/
+/(?:^|\.)licdn\.com$/
+/(?:^|\.)tiktok\.com$/
+/(?:^|\.)tiktokv\.com$/
+/(?:^|\.)ttwstatic\.com$/
+/(?:^|\.)tiktokcdn\.com$/
+/(?:^|\.)byteoversea\.com$/
+/(?:^|\.)accuweather\.com$/
+/(?:^|\.)akamai\.net$/
+/(?:^|\.)apple-dns\.net$/
+/(?:^|\.)apple\.com$/
+/(?:^|\.)azure\.com$/
+/(?:^|\.)binance\.com$/
+/(?:^|\.)bing\.com$/
+/(?:^|\.)cdn\.whatsapp\.net$/
+/(?:^|\.)cdnvideo\.ru$/
+/(?:^|\.)cloudflare\.com$/
+/(?:^|\.)facebook\.(com|net)$/
+/(?:^|\.)gmail\.com$/
+/(?:^|\.)ggpht\.com$/
+/(?:^|\.)google\.(com|net|kz|de|lv)$/
+/(?:^|\.)googleusercontent\.com$/
+/(?:^|\.)gstatic\.com$/
+/(?:^|\.)hcaptcha\.com$/
+/(?:^|\.)icloud\.com$/
+/(?:^|\.)instagram\.com$/
+/(?:^|\.)ivi\.(ru|tv)$/
+/(?:^|\.)kinopoisk\.ru$/
+/(?:^|\.)live\.com$/
+/(?:^|\.)microsoft\.com$/
+/(?:^|\.)microsoftonline\.com$/
+/(?:^|\.)msn\.com$/
+/(?:^|\.)nessus\.org$/
+/(?:^|\.)netflix\.com$/
+/(?:^|\.)office365\.com$/
+/(?:^|\.)office\.com$/
+/(?:^|\.)openai\.com$/
+/(?:^|\.)pikabu\.ru$/
+/(?:^|\.)pinterest\.com$/
+/(?:^|\.)powerbi\.com$/
+/(?:^|\.)sharepoint\.com$/
+/(?:^|\.)t\.me$/
+/(?:^|\.)telegram\.org$/
+/(?:^|\.)twimg\.com$/
+/(?:^|\.)weather\.com$/
+/(?:^|\.)x\.com$/
+/(?:^|\.)yahoo\.com$/
+/(?:^|\.)youtu\.be$/
+/(?:^|\.)zoom\.us$/
+/(?:^|\.)apple\.(map\.fastly|com\.akadns)\.net$/
 
 # https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#skype-for-business-online-and-microsoft-teams
 # [ Microsoft ]
-/(^|^.*\.)aadrm\.com$/
-/(^|^.*\.)acompli\.net$/
-/(^|^.*\.)activity.windows\.com$/
-/(^|^.*\.)aka.ms$/
-/(^|^.*\.)azure-apim\.net$/
-/(^|^.*\.)azurerms\.com$/
-/(^|^.*\.)cloud.microsoft$/
-/(^|^.*\.)cortana\.ai$/
-/(^|^.*\.)entrust\.net$/
-/(^|^.*\.)flow.microsoft\.com$/
-/(^|^.*\.)geotrust\.com$/
-/(^|^.*\.)informationprotection.azure\.com$/
-/(^|^.*\.)lync\.com$/
-/(^|^.*\.)microsoftusercontent\.com$/
-/(^|^.*\.)msocdn\.com$/
-/(^|^.*\.)officeapps.live\.com$/
-/(^|^.*\.)omniroot\.com$/
-/(^|^.*\.)onenote\.com$/
-/(^|^.*\.)online.office\.com$/
-/(^|^.*\.)onmicrosoft\.com$/
-/(^|^.*\.)outlookmobile\.com$/
-/(^|^.*\.)powerapps\.com$/
-/(^|^.*\.)powerautomate\.com$/
-/(^|^.*\.)public-trust\.com$/
-/(^|^.*\.)search.production.apac.trafficmanager\.net$/
-/(^|^.*\.)search.production.emea.trafficmanager\.net$/
-/(^|^.*\.)search.production.us.trafficmanager\.net$/
-/(^|^.*\.)secure.skypeassets\.com$/
-/(^|^.*\.)sharepointonline\.com$/
-/(^|^.*\.)skype\.com$/
-/(^|^.*\.)static.microsoft$/
-/(^|^.*\.)svc\.ms$/
-/(^|^.*\.)symcb\.com$/
-/(^|^.*\.)symcd\.com$/
-/(^|^.*\.)teams.cloud.microsoft$/
-/(^|^.*\.)teams.microsoft\.com$/
-/(^|^.*\.)usercontent.microsoft$/
-/(^|^.*\.)verisign\.com$/
-/(^|^.*\.)verisign\.net$/
-/(^|^.*\.)virtualearth\.net$/
-/(^|^.*\.)wns.windows\.com$/
-/(^|^.*\.)yammer\.com$/
-/(^|^.*\.)yammerusercontent\.com$/
+/(?:^|\.)aadrm\.com$/
+/(?:^|\.)acompli\.net$/
+/(?:^|\.)activity\.windows\.com$/
+/(?:^|\.)aka\.ms$/
+/(?:^|\.)azure-apim\.net$/
+/(?:^|\.)azurerms\.com$/
+/(?:^|\.)cloud\.microsoft$/
+/(?:^|\.)cortana\.ai$/
+/(?:^|\.)entrust\.net$/
+/(?:^|\.)flow\.microsoft\.com$/
+/(?:^|\.)geotrust\.com$/
+/(?:^|\.)informationprotection\.azure\.com$/
+/(?:^|\.)lync\.com$/
+/(?:^|\.)microsoftusercontent\.com$/
+/(?:^|\.)msocdn\.com$/
+/(?:^|\.)officeapps\.live\.com$/
+/(?:^|\.)omniroot\.com$/
+/(?:^|\.)onenote\.com$/
+/(?:^|\.)online\.office\.com$/
+/(?:^|\.)onmicrosoft\.com$/
+/(?:^|\.)outlookmobile\.com$/
+/(?:^|\.)powerapps\.com$/
+/(?:^|\.)powerautomate\.com$/
+/(?:^|\.)public-trust\.com$/
+/(?:^|\.)search\.production\.apac\.trafficmanager\.net$/
+/(?:^|\.)search\.production\.emea\.trafficmanager\.net$/
+/(?:^|\.)search\.production\.us\.trafficmanager\.net$/
+/(?:^|\.)secure\.skypeassets\.com$/
+/(?:^|\.)sharepointonline\.com$/
+/(?:^|\.)skype\.com$/
+/(?:^|\.)static\.microsoft$/
+/(?:^|\.)svc\.ms$/
+/(?:^|\.)symcb\.com$/
+/(?:^|\.)symcd\.com$/
+/(?:^|\.)teams\.cloud\.microsoft$/
+/(?:^|\.)teams\.microsoft\.com$/
+/(?:^|\.)usercontent\.microsoft$/
+/(?:^|\.)verisign\.com$/
+/(?:^|\.)verisign\.net$/
+/(?:^|\.)virtualearth\.net$/
+/(?:^|\.)wns\.windows\.com$/
+/(?:^|\.)yammer\.com$/
+/(?:^|\.)yammerusercontent\.com$/
 
 # [ Yandex ]
-/(^|^.*\.)mc\.admetrica\.ru$/
-/(^|^.*\.)webvisor\.(com|org)$/
-/(^|^.*\.)ya\.ru$/
-/(^|^.*\.)yandex-bank\.net$/
-/(^|^.*\.)yandex-net\.ru$/
-/(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
-/(^|^.*\.)yandex\.com\.(ru|tr)$/
-/(^|^.*\.)yandexgo\.com$/
-/(^|^.*\.)yandexmetrica\.com$/
-/(^|^.*\.)yastatic\.net$/
+/(?:^|\.)mc\.admetrica\.ru$/
+/(?:^|\.)webvisor\.(com|org)$/
+/(?:^|\.)ya\.ru$/
+/(?:^|\.)yandex-bank\.net$/
+/(?:^|\.)yandex-net\.ru$/
+/(?:^|\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
+/(?:^|\.)yandex\.com\.(ru|tr)$/
+/(?:^|\.)yandexgo\.com$/
+/(?:^|\.)yandexmetrica\.com$/
+/(?:^|\.)yastatic\.net$/
 
 # [ My Services ]
-/(^|^.*\.)openbld.(net)$/
-/(^|^.*\.)sys-adm.(in)$/
-/(^|^.*\.)sysconf.(io)$/
+/(?:^|\.)openbld\.net$/
+/(?:^|\.)sys-adm\.in$/
+/(?:^|\.)sysconf\.io$/
 
 # [ Kz Services ]
-/(^|^.*\.)bankrbk.(kz)$/
-/(^|^.*\.)cdn-kaspi\.kz$/
-/(^|^.*\.)egov.(kz)$/
-/(^|^.*\.)eubank\.kz$/
-/(^|^.*\.)gov.(kz)$/
-/(^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$/
-/(^|^.*\.)halykbank\.kz$/
-/(^|^.*\.)halykfinance.kz$/
-/(^|^.*\.)kaspi.(kz)$/
-/(^|^.*\.)cdn-kaspi\.kz$/
+/(?:^|\.)bankrbk\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)egov\.kz$/
+/(?:^|\.)eubank\.kz$/
+/(?:^|\.)gov\.kz$/
+/(?:^|\.)gov\.(kz|by|ru|uz|kg|uk|cn|it)$/
+/(?:^|\.)halykbank\.kz$/
+/(?:^|\.)halykfinance\.kz$/
+/(?:^|\.)kaspi\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
 
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
@@ -131,27 +136,26 @@ st.mycdn.me
 trk.mail.ru
 
 # [ Games ]
-/(^|^.*\.)xboxlive.com$/
-/(^|^.*\.)riotcdn.net$/
-/(^|^.*\.)easebar.com$/
-/(^|^.*\.)appcenter.ms$/
-/(^|^.*\.)pvp.net$/
+/(?:^|\.)xboxlive\.com$/
+/(?:^|\.)riotcdn\.net$/
+/(?:^|\.)easebar\.com$/
+/(?:^|\.)appcenter\.ms$/
+/(?:^|\.)pvp\.net$/
 # bytegsdk.com
 # www.bytegsdk.com
 log-va.bytegsdk.com
 gsdk-va.bytegsdk.com
 bsdk-sg.bytegsdk.com
 
-
 # Unity
-/(^|^.*\.)cloud.unity3d.com$/
-/(^|^.*\.)ecommerce.iap.unity3d.com$/
-/(^|^.*\.)internal.unity3d.com$/
-/(^|^.*\.)isx.unity3d.com$/
-/(^|^.*\.)mediation.unity3d.com$/
-/(^|^.*\.)mz.unity3d.com$/
-/(^|^.*\.)offerwall.unity3d.com$/
-/(^|^.*\.)stats.unity3d.com$/
+/(?:^|\.)cloud\.unity3d\.com$/
+/(?:^|\.)ecommerce\.iap\.unity3d\.com$/
+/(?:^|\.)internal\.unity3d\.com$/
+/(?:^|\.)isx\.unity3d\.com$/
+/(?:^|\.)mediation\.unity3d\.com$/
+/(?:^|\.)mz\.unity3d\.com$/
+/(?:^|\.)offerwall\.unity3d\.com$/
+/(?:^|\.)stats\.unity3d\.com$/
 
 # Testing
 operate-sdk-telemetry.unity3d.com
@@ -173,29 +177,29 @@ www.exponea.com
 amway-cdn.exponea.com
 
 # [ Services ]
-/(^|^.*\.)ntp.org$/
-/[a-z]{1,}.root-servers.net$/
+/(?:^|\.)ntp\.org$/
+/(?:^|\.)[a-z]+\.root-servers\.net$/
 
 # Test permanent
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
 # /(^|^.*\.)unity3d\.com$/
 # googlesyndication.com
-/(^|^.*\.)akamai\.net$/
-/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 #/(^|^[a-z]{2,}\.)googleadservices\.com$/
+/(?:^|\.)akamai\.net$/
 /(^|^ad\.)doubleclick\.net$/
 www.googleadservices.com
 googleadservices.com
+optimizationguide-pa.googleapis.com
 
 # Testing
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
-optimizationguide-pa.googleapis.com
+
 # LightNode mail links
-pstmrk.it
 click.pstmrk.it
 dit.whatsapp.net
 go.skimresources.com
+pstmrk.it
 skimresources.com
