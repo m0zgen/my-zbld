@@ -1,2 +1,2 @@
 # [ My Services ]
-/(^|^.*\.)openbld.(net)$/
+/(?:^|\.)openbld\.net$/
