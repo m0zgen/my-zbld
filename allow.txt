@@ -175,6 +175,9 @@ cdn.pdst.fm
 exponea.com
 www.exponea.com
 amway-cdn.exponea.com
+survey.medallia.com
+www.medallia.com
+medallia.com
 
 # [ Services ]
 /(?:^|\.)ntp\.org$/
