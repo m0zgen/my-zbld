@@ -160,6 +160,7 @@ bsdk-sg.bytegsdk.com
 # Testing
 operate-sdk-telemetry.unity3d.com
 collect.analytics.unity3d.com
+crashlyticsreports-pa.googleapis.com
 
 # Platforms
 # Clickup
