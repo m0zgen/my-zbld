@@ -160,7 +160,9 @@ bsdk-sg.bytegsdk.com
 # Testing
 operate-sdk-telemetry.unity3d.com
 collect.analytics.unity3d.com
+# Kaspi.kz fix screen resolving
 crashlyticsreports-pa.googleapis.com
+app-analytics-services.com
 
 # Platforms
 # Clickup
