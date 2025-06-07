@@ -182,6 +182,7 @@ amway-cdn.exponea.com
 survey.medallia.com
 www.medallia.com
 medallia.com
+static.hotjar.com
 
 # [ Services ]
 /(?:^|\.)ntp\.org$/
