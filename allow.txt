@@ -134,6 +134,7 @@ log.dzen.ru
 r3.mail.ru
 st.mycdn.me
 trk.mail.ru
+email.kisnetorg.myenotice.com
 
 # [ Games ]
 /(?:^|\.)xboxlive\.com$/
