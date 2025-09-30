@@ -208,6 +208,7 @@ telemetry.elastic.co
 
 # Cambridge dictionary
 # /(?:^|\.)html-load\.com$/ 
+report.error-report.com
 
 # LightNode mail links
 click.pstmrk.it
