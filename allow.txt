@@ -207,7 +207,7 @@ lobfile.com
 telemetry.elastic.co
 
 # Cambridge dictionary
-/(?:^|\.)html-load\.com$/ 
+# /(?:^|\.)html-load\.com$/ 
 
 # LightNode mail links
 click.pstmrk.it
