@@ -200,7 +200,7 @@ static.hotjar.com
 www.googleadservices.com
 googleadservices.com
 optimizationguide-pa.googleapis.com
-static.cloudflareinsights.com
+# static.cloudflareinsights.com
 
 # Testing
 dullwave.ru
