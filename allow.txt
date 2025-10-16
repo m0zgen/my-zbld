@@ -184,6 +184,8 @@ survey.medallia.com
 www.medallia.com
 medallia.com
 static.hotjar.com
+api.mixpanel.com
+sp.pcoptimum.ca
 
 # [ Services ]
 /(?:^|\.)ntp\.org$/
