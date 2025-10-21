@@ -167,7 +167,7 @@ app-analytics-services.com
 
 # Platforms
 # Clickup
-/(?:^|\.)calltouch.ru$/
+/(?:^|\.)calltouch\.ru$/
 analytics.ringostat.net
 firstpromoter.com
 cdn.firstpromoter.com
