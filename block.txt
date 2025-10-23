@@ -6,6 +6,9 @@
 /(?:^|\.)ads\.adfox\.ru$/
 
 # Deprecated
+# http://www.wpbl.info/
+# The WPBL nameservers now point to dummy TEST-NET addresses which will result in lookup errors and timeouts.
+# Please remove WPBL from your configuration files.
 /(?:^|\.)wpbl\.info$/
 
 # [ Domain rules ]
