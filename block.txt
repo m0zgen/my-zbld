@@ -1,25 +1,26 @@
 # Blocked Domains List
 
 # [ Regex rules ]
-/(^|^.*\.)googlesyndication.(com)$/
-/(^|^.*\.)google-analytics.(com)$/
-/(^|^.*\.)example.(com|net)$/
-/(^|^.*\.)ads.adfox.(ru)$/
+/(?:^|\.)googlesyndication\.com$/
+/(?:^|\.)google-analytics\.com$/
+/(?:^|\.)ads\.adfox\.ru$/
+
+# Deprecated
+/(?:^|\.)wpbl\.info$/
 
 # [ Domain rules ]
-euc-word-telemetry.officeapps.live.com
-ssl.google-analytics.com
-doubleclick.net
 ad.doubleclick.net
-appmetrica.yandex.com
-an.yandex.ru
 ads.linkedin.com
+an.yandex.ru
+analytics-sg.tiktok.com
 analytics.pointdrive.linkedin.com
 analytics.tiktok.com
-analytics-sg.tiktok.com
+appmetrica.yandex.com
+doubleclick.net
+euc-word-telemetry.officeapps.live.com
+ssl.google-analytics.com
 
 # [ More domains ]
-example.com
 cdn.asp.events
 
 # [ Testing ]
