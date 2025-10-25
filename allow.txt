@@ -208,6 +208,7 @@ optimizationguide-pa.googleapis.com
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
+ads.adfox.ru
 
 # Cambridge dictionary
 # /(?:^|\.)html-load\.com$/ 
