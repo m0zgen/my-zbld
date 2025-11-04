@@ -237,6 +237,7 @@ optimizationguide-pa.googleapis.com
 # static.cloudflareinsights.com
 
 # Testing
+share.google
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
