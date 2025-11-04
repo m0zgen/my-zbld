@@ -229,8 +229,8 @@ www.tiny.cc
 /(?:^|\.)[a-z]+\.root-servers\.net$/
 
 # Test permanent
-# /(^|^.*\.)akadns\.net$/
-# /(^|^.*\.)fastly\.net$/
+# /(?:^|\.)akadns\.net$/
+# /(?:^|\.)fastly\.net$/
 # /(^|^.*\.)unity3d\.com$/
 # googlesyndication.com
 #/(^|^[a-z]{2,}\.)googleadservices\.com$/
@@ -242,6 +242,7 @@ optimizationguide-pa.googleapis.com
 # static.cloudflareinsights.com
 
 # Testing
+/(?:^|\.)luxcdn\.com$/
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
