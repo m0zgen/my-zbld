@@ -200,25 +200,27 @@ app-analytics-services.com
 # Platforms
 # Clickup
 /(?:^|\.)calltouch\.ru$/
-analytics.ringostat.net
-firstpromoter.com
-cdn.firstpromoter.com
-ct.capterra.com
-pendo.io
-cdn.pendo.io
-app.pendo.io
-cdn.pdst.fm
-# Exponea
-exponea.com
-www.exponea.com
 amway-cdn.exponea.com
-survey.medallia.com
-www.medallia.com
-medallia.com
-static.hotjar.com
+analytics.ringostat.net
 api.mixpanel.com
+app.pendo.io
+cdn.firstpromoter.com
+cdn.pdst.fm
+cdn.pendo.io
+ct.capterra.com
+exponea.com
+firstpromoter.com
+medallia.com
+pendo.io
 sp.pcoptimum.ca
+static.hotjar.com
+survey.medallia.com
+www.exponea.com
+www.medallia.com
+
+# Sharing
 share.google
+www.share.google
 tiny.cc
 www.tiny.cc
 
