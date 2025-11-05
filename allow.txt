@@ -246,6 +246,8 @@ optimizationguide-pa.googleapis.com
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
+onthe.io
+www.onthe.io
 # ads.adfox.ru
 
 # Cambridge dictionary
