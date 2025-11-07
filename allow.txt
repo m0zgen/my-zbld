@@ -228,6 +228,12 @@ www.tiny.cc
 /(?:^|\.)ntp\.org$/
 /(?:^|\.)[a-z]+\.root-servers\.net$/
 
+# [ WL Candidates ]
+onthe.io
+www.onthe.io
+lextran.com
+www.lextran.com
+
 # Test permanent
 # /(?:^|\.)akadns\.net$/
 # /(?:^|\.)fastly\.net$/
@@ -246,8 +252,6 @@ optimizationguide-pa.googleapis.com
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
-onthe.io
-www.onthe.io
 # ads.adfox.ru
 
 # Cambridge dictionary
