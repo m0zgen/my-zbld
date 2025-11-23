@@ -28,4 +28,5 @@ cdn.asp.events
 
 # [ Testing ]
 yt3.ggpht.com
+mediation.goog
 
