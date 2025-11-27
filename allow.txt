@@ -248,11 +248,9 @@ optimizationguide-pa.googleapis.com
 # static.cloudflareinsights.com
 
 # Testing
-/(?:^|\.)luxcdn\.com$/
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
-# ads.adfox.ru
 
 # Cambridge dictionary
 # /(?:^|\.)html-load\.com$/ 
@@ -265,3 +263,7 @@ go.skimresources.com
 pstmrk.it
 skimresources.com
 cdn.prod.website-files.com
+
+# Ads transport
+# /(?:^|\.)luxcdn\.com$/
+# ads.adfox.ru
