@@ -30,3 +30,6 @@ cdn.asp.events
 yt3.ggpht.com
 mediation.goog
 
+adservice.google.com
+an.facebook.com
+
