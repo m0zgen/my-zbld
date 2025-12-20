@@ -253,6 +253,9 @@ dullwave.ru
 lobfile.com
 telemetry.elastic.co
 
+v2.plrjs.org
+v3.pjstat.com
+
 # Cambridge dictionary
 # /(?:^|\.)html-load\.com$/ 
 report.error-report.com
