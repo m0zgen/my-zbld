@@ -238,6 +238,8 @@ hst.sh
 www.hst.sh
 imgpx.com
 www.imgpx.com
+scan.page
+www.scan.page
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
