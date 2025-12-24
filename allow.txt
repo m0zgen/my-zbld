@@ -236,6 +236,8 @@ lextran.com
 www.lextran.com
 hst.sh
 www.hst.sh
+imgpx.com
+www.imgpx.com
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
