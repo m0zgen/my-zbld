@@ -38,6 +38,7 @@
 /(?:^|\.)office365\.com$/
 /(?:^|\.)office\.com$/
 /(?:^|\.)openai\.com$/
+/(?:^|\.)chatgpt\.com$/
 /(?:^|\.)pikabu\.ru$/
 /(?:^|\.)pinterest\.com$/
 /(?:^|\.)powerbi\.com$/
