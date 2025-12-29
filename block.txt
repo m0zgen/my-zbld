@@ -33,3 +33,5 @@ mediation.goog
 adservice.google.com
 an.facebook.com
 
+# [ Suspicious ]
+/(?:^|\.)yandex-team\.kz$/
