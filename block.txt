@@ -35,3 +35,4 @@ an.facebook.com
 
 # [ Suspicious ]
 /(?:^|\.)yandex-team\.kz$/
+/(?i)^[a-z0-9.-]*firefox[a-z0-9.-]*\.cn$/
