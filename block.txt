@@ -37,5 +37,6 @@ an.facebook.com
 /(?:^|\.)yandex-team\.kz$/
 /(?i)^[a-z0-9.-]*firefox[a-z0-9.-]*\.cn$/
 /(?:^|\.)sparkchain\.ai$/
+/(?:^|\.)hola\.org$/
 dealdazzle.com
 api.dealdazzle.com
