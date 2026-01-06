@@ -241,6 +241,9 @@ imgpx.com
 www.imgpx.com
 scan.page
 www.scan.page
+bilimclass.kz
+www.bilimclass.kz
+
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
