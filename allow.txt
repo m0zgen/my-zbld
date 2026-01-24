@@ -262,7 +262,7 @@ optimizationguide-pa.googleapis.com
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
-static.smi2.net
+/^static\d?\.smi2\.net$/
 
 v2.plrjs.org
 v3.pjstat.com
