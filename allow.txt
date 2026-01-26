@@ -263,8 +263,15 @@ dullwave.ru
 lobfile.com
 telemetry.elastic.co
 /^static\d?\.smi2\.net$/
+
 paklap.pk
 www.paklap.pk
+
+blogspot.com
+www.blogspot.com
+blogger.com
+www.blogger.com
+
 
 v2.plrjs.org
 v3.pjstat.com
