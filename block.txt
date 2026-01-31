@@ -33,6 +33,9 @@ mediation.goog
 adservice.google.com
 an.facebook.com
 
+api.rstprgapipt.com
+/(?:^|\.)agl008\.shop$/
+
 # [ Suspicious ]
 /(?:^|\.)yandex-team\.kz$/
 /(?i)^[a-z0-9.-]*firefox[a-z0-9.-]*\.cn$/
