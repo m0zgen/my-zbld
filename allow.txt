@@ -278,6 +278,9 @@ v3.pjstat.com
 recostream.go.mail.ru
 assets-jpcust.jwpsrv.com
 
+# Quantum
+cache.amp.vg
+
 # Cambridge dictionary
 # /(?:^|\.)html-load\.com$/ 
 report.error-report.com
