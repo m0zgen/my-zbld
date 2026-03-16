@@ -285,11 +285,17 @@ cache.amp.vg
 # /(?:^|\.)html-load\.com$/ 
 report.error-report.com
 
+# File sh
+gofile.io
+www.gofile.io
+pixeldrain.com
+www.pixeldrain.com
+
 # LightNode mail links
+pstmrk.it
 click.pstmrk.it
 dit.whatsapp.net
 go.skimresources.com
-pstmrk.it
 skimresources.com
 cdn.prod.website-files.com
 
