@@ -291,6 +291,12 @@ www.gofile.io
 pixeldrain.com
 www.pixeldrain.com
 
+# Lzt
+lolz.live
+www.lolz.live
+lzt.market
+www.lzt.market
+
 # LightNode mail links
 pstmrk.it
 click.pstmrk.it
