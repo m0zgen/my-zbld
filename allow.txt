@@ -298,8 +298,8 @@ lzt.market
 www.lzt.market
 
 # venture
-#venturewthrift.com
-#www.venturewthrift.com
+venturewthrift.com
+www.venturewthrift.com
 
 # LightNode mail links
 pstmrk.it
