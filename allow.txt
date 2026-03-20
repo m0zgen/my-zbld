@@ -297,6 +297,10 @@ www.lolz.live
 lzt.market
 www.lzt.market
 
+# venture
+venturewthrift.com
+www.venturewthrift.com
+
 # LightNode mail links
 pstmrk.it
 click.pstmrk.it
