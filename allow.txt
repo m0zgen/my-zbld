@@ -312,6 +312,9 @@ cdn.prod.website-files.com
 # LG App store
 /(?:^|\.)lgtvlink\.com$/
 
+# JS HubSpot Forms
+js.hsforms.net
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
