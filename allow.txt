@@ -309,6 +309,9 @@ go.skimresources.com
 skimresources.com
 cdn.prod.website-files.com
 
+# LG App store
+/(?:^|\.)lgtvlink\.com$/
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
