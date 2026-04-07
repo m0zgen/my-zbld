@@ -315,6 +315,11 @@ cdn.prod.website-files.com
 # JS HubSpot Forms
 js.hsforms.net
 
+# z ai
+z.ai
+www.z.ai
+chat.z.ai
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
