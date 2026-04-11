@@ -324,6 +324,10 @@ chat.z.ai
 teletype.in
 www.teletype.in
 
+# Rutracker
+rutracker.org
+www.rutracker.org
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
