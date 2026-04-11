@@ -320,6 +320,10 @@ z.ai
 www.z.ai
 chat.z.ai
 
+# Teletype
+teletype.in
+www.teletype.in
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
