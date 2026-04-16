@@ -12,9 +12,14 @@ api.example.com
 # claude.ai
 # *.claude.ai
 
+
+# Testing
+zeasn.tv
+
+# Examples
 # trailing dot also ok
-test.example.org.
+# test.example.org.
 
 # inline comment also ok
-service.example.net   # main service
+# service.example.net   # main service
 
