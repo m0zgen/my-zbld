@@ -1,0 +1,20 @@
+# === SNI Forwarding ===
+
+# --- Core domains ---
+example.com
+api.example.com
+
+# --- Wildcards ---
+*.example.com
+*.corp.example
+
+# --- Mixed ---
+# claude.ai
+# *.claude.ai
+
+# trailing dot also ok
+test.example.org.
+
+# inline comment also ok
+service.example.net   # main service
+
