@@ -9,8 +9,8 @@ api.example.com
 *.corp.example
 
 # --- Mixed ---
-# claude.ai
-# *.claude.ai
+claude.ai
+*.claude.ai
 
 # Examples
 
