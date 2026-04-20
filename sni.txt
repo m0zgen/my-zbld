@@ -9,8 +9,14 @@ api.example.com
 *.corp.example
 
 # --- Mixed ---
+
 claude.ai
 *.claude.ai
+
+github.com
+www.github.com
+githubusercontent.com
+objects.githubusercontent.com
 
 # Examples
 
