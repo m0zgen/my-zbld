@@ -1,29 +1,7 @@
 # === SNI Forwarding ===
 
-# --- Core domains ---
 example.com
-api.example.com
-
-# --- Wildcards ---
 *.example.com
-*.corp.example
-
-# --- Mixed ---
-
-claude.ai
-*.claude.ai
-
-#github.com
-#www.github.com
 
 githubusercontent.com
 *.githubusercontent.com
-
-# Examples
-
-# trailing dot also ok
-# test.example.org.
-
-# inline comment also ok
-# service.example.net   # main service
-
