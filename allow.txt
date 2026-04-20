@@ -267,11 +267,6 @@ telemetry.elastic.co
 paklap.pk
 www.paklap.pk
 
-blogspot.com
-www.blogspot.com
-blogger.com
-www.blogger.com
-
 v2.plrjs.org
 v3.pjstat.com
 
@@ -281,21 +276,11 @@ assets-jpcust.jwpsrv.com
 # Quantum
 cache.amp.vg
 
-# Cambridge dictionary
-# /(?:^|\.)html-load\.com$/ 
-report.error-report.com
-
 # File sh
 gofile.io
 www.gofile.io
 pixeldrain.com
 www.pixeldrain.com
-
-# Lzt
-lolz.live
-www.lolz.live
-lzt.market
-www.lzt.market
 
 # venture
 venturewthrift.com
@@ -311,22 +296,6 @@ cdn.prod.website-files.com
 
 # LG App store
 /(?:^|\.)lgtvlink\.com$/
-
-# JS HubSpot Forms
-js.hsforms.net
-
-# z ai
-z.ai
-www.z.ai
-chat.z.ai
-
-# Teletype
-teletype.in
-www.teletype.in
-
-# Rutracker
-rutracker.org
-www.rutracker.org
 
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
