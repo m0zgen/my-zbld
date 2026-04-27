@@ -294,6 +294,10 @@ cdn.prod.website-files.com
 # LG App store
 /(?:^|\.)lgtvlink\.com$/
 
+# 
+okcdn.ru
+mycdn.me
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
