@@ -295,9 +295,10 @@ cdn.prod.website-files.com
 /(?:^|\.)lgtvlink\.com$/
 eic-ngfts.lge.com
 
-# 
+# OK network
 okcdn.ru
 mycdn.me
+api.bnnapp.com
 
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
