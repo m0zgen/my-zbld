@@ -300,6 +300,10 @@ okcdn.ru
 mycdn.me
 api.bnnapp.com
 
+# Link shorts
+view.page
+www.view.page
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
