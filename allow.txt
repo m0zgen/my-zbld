@@ -308,6 +308,11 @@ www.view.page
 atomicmail.io
 www.atomicmail.io
 
+# Brave
+brave.com
+www.brave.com
+referrals.brave.com
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
