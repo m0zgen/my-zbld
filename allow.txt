@@ -304,6 +304,10 @@ api.bnnapp.com
 view.page
 www.view.page
 
+# Mail parking
+atomicmail.io
+www.atomicmail.io
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
