@@ -313,6 +313,9 @@ brave.com
 www.brave.com
 referrals.brave.com
 
+# TechCrunch correctly works
+insight.adsrvr.org
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
