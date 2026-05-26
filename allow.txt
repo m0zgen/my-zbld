@@ -294,6 +294,7 @@ cdn.prod.website-files.com
 # LG App store
 /(?:^|\.)lgtvlink\.com$/
 eic-ngfts.lge.com
+kz.nextlgsdp.com
 
 # OK network
 okcdn.ru
