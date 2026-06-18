@@ -320,6 +320,9 @@ insight.adsrvr.org
 # Testingcatalog img src
 storage.ghost.io
 
+# misp bootstrap
+maxcdn.bootstrapcdn.com
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
