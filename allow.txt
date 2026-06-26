@@ -323,6 +323,9 @@ storage.ghost.io
 # misp bootstrap
 maxcdn.bootstrapcdn.com
 
+# Mail
+cloud.mail.ru
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
