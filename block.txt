@@ -4,6 +4,7 @@
 /(?:^|\.)googlesyndication\.com$/
 /(?:^|\.)google-analytics\.com$/
 /(?:^|\.)ads\.adfox\.ru$/
+/(?:^|\.)jddebug\.com$/
 
 # Deprecated
 # http://www.wpbl.info/
@@ -43,3 +44,9 @@ api.rstprgapipt.com
 /(?:^|\.)hola\.org$/
 dealdazzle.com
 api.dealdazzle.com
+
+# SERVF
+solidfiles.com
+www.solidfiles.com
+gma.zc2tv.com
+cdnetworks.zc2tv.com
