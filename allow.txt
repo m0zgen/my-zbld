@@ -329,3 +329,7 @@ cloud.mail.ru
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
+
+# Num D triggers
+secu100.net
+www.secu100.net
