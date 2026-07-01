@@ -53,3 +53,5 @@ www.solidfiles.com
 gma.zc2tv.com
 cdnetworks.zc2tv.com
 
+# Vid ad
+/(?:^|\.)adport\.net$/
