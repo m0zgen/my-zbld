@@ -55,3 +55,4 @@ cdnetworks.zc2tv.com
 
 # Vid ad
 /(?:^|\.)adport\.net$/
+kleveromal.link
