@@ -230,6 +230,9 @@ www.tiny.cc
 /(?:^|\.)ntp\.org$/
 /(?:^|\.)[a-z]+\.root-servers\.net$/
 
+joindns4.eu
+www.joindns4.eu
+
 # [ WL Candidates ]
 onthe.io
 www.onthe.io
