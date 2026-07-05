@@ -329,6 +329,9 @@ maxcdn.bootstrapcdn.com
 # Mail
 cloud.mail.ru
 
+# Vk
+vk.cc
+
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
