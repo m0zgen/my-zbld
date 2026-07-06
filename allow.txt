@@ -270,6 +270,9 @@ www.paklap.pk
 v2.plrjs.org
 v3.pjstat.com
 
+kinogo.ec
+www.kinogo.ec
+
 recostream.go.mail.ru
 assets-jpcust.jwpsrv.com
 
