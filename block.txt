@@ -57,3 +57,4 @@ cdnetworks.zc2tv.com
 /(?:^|\.)adport\.net$/
 kleveromal.link
 zamorokeharu.link
+tazaromikaz.link
