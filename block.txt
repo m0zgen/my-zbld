@@ -58,3 +58,6 @@ cdnetworks.zc2tv.com
 kleveromal.link
 zamorokeharu.link
 tazaromikaz.link
+
+/(?:^|\.)stg.html-load\.com$/
+
