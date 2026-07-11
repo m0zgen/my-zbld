@@ -35,6 +35,10 @@ cdn.asp.events
 yt3.ggpht.com
 mediation.goog
 
+# [ A - B ]
+super-test-domain-2026.com
+zuper-test-domain.com
+
 adservice.google.com
 an.facebook.com
 
@@ -61,3 +65,4 @@ tazaromikaz.link
 
 # Adblocker detector and Ad loader
 # /(?:^|\.)stg.html-load\.com$/
+
