@@ -1,26 +1,22 @@
 # Allowed Domains List
 
 # [ Global Regex ]
-/(?:^|\.)linkedin\.com$/
-/(?:^|\.)licdn\.com$/
-/(?:^|\.)tiktok\.com$/
-/(?:^|\.)tiktokv\.com$/
-/(?:^|\.)ttwstatic\.com$/
-/(?:^|\.)tiktokcdn\.com$/
-/(?:^|\.)byteoversea\.com$/
 /(?:^|\.)accuweather\.com$/
 /(?:^|\.)akamai\.net$/
 /(?:^|\.)apple-dns\.net$/
+/(?:^|\.)apple\.(map\.fastly|com\.akadns)\.net$/
 /(?:^|\.)apple\.com$/
 /(?:^|\.)azure\.com$/
 /(?:^|\.)binance\.com$/
 /(?:^|\.)bing\.com$/
+/(?:^|\.)byteoversea\.com$/
 /(?:^|\.)cdn\.whatsapp\.net$/
 /(?:^|\.)cdnvideo\.ru$/
+/(?:^|\.)chatgpt\.com$/
 /(?:^|\.)cloudflare\.com$/
 /(?:^|\.)facebook\.(com|net)$/
-/(?:^|\.)gmail\.com$/
 /(?:^|\.)ggpht\.com$/
+/(?:^|\.)gmail\.com$/
 /(?:^|\.)google\.(com|net|kz|de|lv)$/
 /(?:^|\.)googleusercontent\.com$/
 /(?:^|\.)gstatic\.com$/
@@ -29,6 +25,8 @@
 /(?:^|\.)instagram\.com$/
 /(?:^|\.)ivi\.(ru|tv)$/
 /(?:^|\.)kinopoisk\.ru$/
+/(?:^|\.)licdn\.com$/
+/(?:^|\.)linkedin\.com$/
 /(?:^|\.)live\.com$/
 /(?:^|\.)microsoft\.com$/
 /(?:^|\.)microsoftonline\.com$/
@@ -38,26 +36,29 @@
 /(?:^|\.)office365\.com$/
 /(?:^|\.)office\.com$/
 /(?:^|\.)openai\.com$/
-/(?:^|\.)chatgpt\.com$/
 /(?:^|\.)pikabu\.ru$/
 /(?:^|\.)pinterest\.com$/
 /(?:^|\.)powerbi\.com$/
 /(?:^|\.)sharepoint\.com$/
 /(?:^|\.)t\.me$/
 /(?:^|\.)telegram\.org$/
+/(?:^|\.)tiktok\.com$/
+/(?:^|\.)tiktokcdn\.com$/
+/(?:^|\.)tiktokv\.com$/
+/(?:^|\.)ttwstatic\.com$/
 /(?:^|\.)twimg\.com$/
 /(?:^|\.)weather\.com$/
 /(?:^|\.)x\.com$/
 /(?:^|\.)yahoo\.com$/
 /(?:^|\.)youtu\.be$/
 /(?:^|\.)zoom\.us$/
-/(?:^|\.)apple\.(map\.fastly|com\.akadns)\.net$/
 
 # From Lua
 /(?:^|\.)amazon\.(?:com|de)$/
 /(?:^|\.)avito\.(?:ru|st)$/
 /(?:^|\.)booking\.com$/
 /(?:^|\.)canva\.com$/
+/(?:^|\.)chatgpt\.com$/
 /(?:^|\.)discord\.com$/
 /(?:^|\.)duckduckgo\.com$/
 /(?:^|\.)ebay\.com$/
@@ -67,7 +68,6 @@
 /(?:^|\.)lgtvcommon\.com$/
 /(?:^|\.)medium\.com$/
 /(?:^|\.)office365\.net$/
-/(?:^|\.)chatgpt\.com$/
 /(?:^|\.)opera\.com$/
 /(?:^|\.)quora\.com$/
 /(?:^|\.)qwant\.com$/
@@ -152,35 +152,35 @@
 # [ Kz Services ]
 /(?:^|\.)bankrbk\.kz$/
 /(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
 /(?:^|\.)egov\.kz$/
 /(?:^|\.)eubank\.kz$/
-/(?:^|\.)gov\.kz$/
 /(?:^|\.)gov\.(kz|by|ru|uz|kg|uk|cn|it)$/
+/(?:^|\.)gov\.kz$/
 /(?:^|\.)halykbank\.kz$/
 /(?:^|\.)halykfinance\.kz$/
 /(?:^|\.)kaspi\.kz$/
-/(?:^|\.)cdn-kaspi\.kz$/
 
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
 cdn.dzen.ru
+email.kisnetorg.myenotice.com
 log.dzen.ru
 r3.mail.ru
 st.mycdn.me
 trk.mail.ru
-email.kisnetorg.myenotice.com
 
 # [ Games ]
-/(?:^|\.)xboxlive\.com$/
-/(?:^|\.)riotcdn\.net$/
-/(?:^|\.)easebar\.com$/
 /(?:^|\.)appcenter\.ms$/
+/(?:^|\.)easebar\.com$/
 /(?:^|\.)pvp\.net$/
+/(?:^|\.)riotcdn\.net$/
+/(?:^|\.)xboxlive\.com$/
 # bytegsdk.com
 # www.bytegsdk.com
-log-va.bytegsdk.com
-gsdk-va.bytegsdk.com
 bsdk-sg.bytegsdk.com
+gsdk-va.bytegsdk.com
+log-va.bytegsdk.com
 
 # Unity
 /(?:^|\.)cloud\.unity3d\.com$/
@@ -236,8 +236,6 @@ www.joindns4.eu
 # [ WL Candidates ]
 onthe.io
 www.onthe.io
-lextran.com
-www.lextran.com
 hst.sh
 www.hst.sh
 imgpx.com
@@ -259,35 +257,18 @@ optimizationguide-pa.googleapis.com
 # static.cloudflareinsights.com
 
 # Testing
+/^static\d?\.smi2\.net$/
 dullwave.ru
 lobfile.com
 telemetry.elastic.co
-/^static\d?\.smi2\.net$/
-
-paklap.pk
-www.paklap.pk
 
 v2.plrjs.org
 v3.pjstat.com
 
-kinogo.ec
-www.kinogo.ec
-
-recostream.go.mail.ru
 assets-jpcust.jwpsrv.com
 
 # Quantum
 cache.amp.vg
-
-# File sh
-gofile.io
-www.gofile.io
-pixeldrain.com
-www.pixeldrain.com
-
-# venture
-venturewthrift.com
-www.venturewthrift.com
 
 # LightNode mail links
 pstmrk.it
@@ -302,11 +283,6 @@ cdn.prod.website-files.com
 eic-ngfts.lge.com
 kz.nextlgsdp.com
 
-# OK network
-okcdn.ru
-mycdn.me
-api.bnnapp.com
-
 # Link shorts
 view.page
 www.view.page
@@ -315,37 +291,34 @@ www.view.page
 atomicmail.io
 www.atomicmail.io
 
-# Brave
-brave.com
-www.brave.com
-referrals.brave.com
-
 # TechCrunch correctly works
 insight.adsrvr.org
 
 # Testingcatalog img src
 storage.ghost.io
 
-# misp bootstrap
-maxcdn.bootstrapcdn.com
-
-# Mail
-cloud.mail.ru
-
-# Vk
-vk.cc
-
 # Ads transport
 # /(?:^|\.)luxcdn\.com$/
 # ads.adfox.ru
 
+# Remove candidates
+# File sh
+# gofile.io@
+# www.gofile.io
+
+# venture
+#venturewthrift.com
+#www.venturewthrift.com
+
 # Num D triggers
-secu100.net
-www.secu100.net
-pub-cfg.secu100.net
-opt360.net
-pkg.opt360.net
-sport2000.fr
-www.sport2000.fr
-int08h.com
-roughtime.int08h.com
+#secu100.net
+#www.secu100.net
+#pub-cfg.secu100.net
+#opt360.net
+#pkg.opt360.net
+#sport2000.fr
+#www.sport2000.fr
+#int08h.com
+#roughtime.int08h.com
+
+# end
