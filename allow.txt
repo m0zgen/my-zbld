@@ -294,6 +294,10 @@ www.atomicmail.io
 # TechCrunch correctly works
 insight.adsrvr.org
 
+# Candidates
+pally.info
+www.pally.info
+
 # Testingcatalog img src
 storage.ghost.io
 
