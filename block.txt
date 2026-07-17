@@ -62,6 +62,7 @@ cdnetworks.zc2tv.com
 kleveromal.link
 zamorokeharu.link
 tazaromikaz.link
+gromoboyara.link
 
 # Adblocker detector and Ad loader
 # /(?:^|\.)stg.html-load\.com$/
