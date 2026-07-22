@@ -246,6 +246,8 @@ www.scan.page
 # Test permanent
 # /(?:^|\.)akadns\.net$/
 # /(?:^|\.)fastly\.net$/
+ithub.global.ssl.fastly.net
+
 # /(^|^.*\.)unity3d\.com$/
 # googlesyndication.com
 #/(^|^[a-z]{2,}\.)googleadservices\.com$/
