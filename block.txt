@@ -56,10 +56,17 @@ solidfiles.com
 www.solidfiles.com
 gma.zc2tv.com
 cdnetworks.zc2tv.com
+cdn.siftscience.com
 
 # Social
 tr.snapchat.com
 pixel.quora.com
+api.partnerstack.com
+go.skimresources.com
+redirector.skimresources.com
+click.linksynergy.com
+dai.google.com
+ads.vk.com
 
 # Vid ad
 /(?:^|\.)adport\.net$/
