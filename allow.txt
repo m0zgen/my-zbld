@@ -300,6 +300,7 @@ insight.adsrvr.org
 pally.info
 www.pally.info
 lnk.ua
+iterm2colorschemes.com
 
 # Testingcatalog img src
 storage.ghost.io
