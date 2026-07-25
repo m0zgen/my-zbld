@@ -59,6 +59,7 @@ cdnetworks.zc2tv.com
 
 # Social
 tr.snapchat.com
+pixel.quora.com
 
 # Vid ad
 /(?:^|\.)adport\.net$/
