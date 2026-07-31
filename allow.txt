@@ -282,8 +282,9 @@ cdn.prod.website-files.com
 
 # LG App store
 /(?:^|\.)lgtvlink\.com$/
+/(?:^|\.)nextlgsdp\.com$/
 eic-ngfts.lge.com
-kz.nextlgsdp.com
+# kz.nextlgsdp.com
 
 # Link shorts
 view.page
