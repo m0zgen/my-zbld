@@ -302,6 +302,8 @@ pally.info
 www.pally.info
 lnk.ua
 iterm2colorschemes.com
+pzdcflix.ru
+www.pzdcflix.ru
 
 # Testingcatalog img src
 storage.ghost.io
