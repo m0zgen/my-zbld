@@ -74,6 +74,7 @@ kleveromal.link
 zamorokeharu.link
 tazaromikaz.link
 gromoboyara.link
+chernomaza.link
 
 # Adblocker detector and Ad loader
 # /(?:^|\.)stg.html-load\.com$/
