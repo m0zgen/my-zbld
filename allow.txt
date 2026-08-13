@@ -15,6 +15,7 @@
 /(?:^|\.)chatgpt\.com$/
 /(?:^|\.)cloudflare\.com$/
 /(?:^|\.)facebook\.(com|net)$/
+/(?:^|\.)fbcdn\.net$/
 /(?:^|\.)ggpht\.com$/
 /(?:^|\.)gmail\.com$/
 /(?:^|\.)google\.(com|net|kz|de|lv)$/
