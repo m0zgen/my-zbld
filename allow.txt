@@ -242,6 +242,8 @@ imgpx.com
 www.imgpx.com
 scan.page
 www.scan.page
+123apps.com
+www,123apps.com
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
