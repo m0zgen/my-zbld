@@ -245,6 +245,7 @@ scan.page
 www.scan.page
 123apps.com
 www,123apps.com
+cdn.shortpixel.ai
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
