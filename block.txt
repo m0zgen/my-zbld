@@ -25,6 +25,7 @@ adservice.google.com
 an.facebook.com
 an.yandex.ru
 analytics-sg.tiktok.com
+analytics.google.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.tiktok.com
@@ -36,6 +37,7 @@ api.mixpanel.com
 api.segment.io
 api2.amplitude.com
 api2.branch.io
+app-measurement.com
 app.adjust.com
 app.usercentrics.eu
 appmetrica.yandex.com
@@ -51,12 +53,14 @@ connect.facebook.net
 consentcdn.cookiebot.com
 ct.pinterest.com
 d.reddit.com
+dai.google.com
 doubleclick.net
 euc-word-telemetry.officeapps.live.com
 events.reddit.com
 gemini.yahoo.com
 geo.yahoo.com
 geolocation.onetrust.com
+googletagmanager.com
 graph.facebook.com
 graph.instagram.com
 greatis.com
@@ -77,13 +81,17 @@ ssl.google-analytics.com
 ssl.p.jwpcdn.com
 static.hotjar.com
 sync.kargo.com
+tagmanager.google.com
 tr.facebook.com
 tr.snapchat.com
 trk.pinterest.com
 udc.yahoo.com
 udcm.yahoo.com
+vortex.data.microsoft.com
 weather-analytics-events.apple.com
 webview.unityads.unity3d.com
+widget.intercom.io
+www.googletagmanager.com
 
 # [ More domains ]
 example.com

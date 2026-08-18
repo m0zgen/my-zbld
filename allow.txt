@@ -1,16 +1,16 @@
 # Allowed Domains List
 
 # [ Global Regex ]
-/(?:^|\.)google\.(?:com|net|kz|de|lv)$/
+# /(?:^|\.)google\.(?:com|net|kz|de|lv)$/
 /(?:^|\.)googleusercontent\.com$/
 /(?:^|\.)hcaptcha\.com$/
-/(^|^.*\.)(linkedin|licdn)\.com$/
+# /(^|^.*\.)(linkedin|licdn)\.com$/
 /(?:^|\.)yahoo\.com$/
 
 # [ Vendors ]
-/(?:^|\.)apple\.com$/
+# /(?:^|\.)apple\.com$/
 /(?:^|\.)azure\.com$/
-/(?:^|\.)microsoft\.com$/
+# /(?:^|\.)microsoft\.com$/
 /(?:^|\.)microsoftonline\.com$/
 /(?:^|\.)msn\.com$/
 /(?:^|\.)x\.com$/
@@ -42,16 +42,16 @@ bitbucket.org
 
 # [ Socials / Jobs ]
 /(?:^|\.)hh.([a-z]{2,})$/
-trk.mail.ru
 r3.mail.ru
 st.mycdn.me
+trk.mail.ru
 
 # Test permanent
-# googlesyndication.com
-/(^|^[a-z]{2,}\.)googleadservices\.com$/
-/(^|^ad\.)doubleclick\.net$/
-/(^|^.*\.)akamai\.net$/
-/(^|^.*\.)unity3d\.com$/
-/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
+# /(^|^.*\.)unity3d\.com$/
+# /(^|^[a-z]{2,}\.)googleadservices\.com$/
+# /(^|^ad\.)doubleclick\.net$/
+# googlesyndication.com
+/(^|^.*\.)akamai\.net$/
+/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
