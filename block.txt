@@ -76,6 +76,8 @@ partnerads.ysm.yahoo.com
 pixel.facebook.com
 pixel.quora.com
 px.ads.linkedin.com
+redirector.googlevideo.com
+s.youtube.com
 snap.licdn.com
 ssl.google-analytics.com
 ssl.p.jwpcdn.com
@@ -92,6 +94,7 @@ weather-analytics-events.apple.com
 webview.unityads.unity3d.com
 widget.intercom.io
 www.googletagmanager.com
+youtubei.googleapis.com
 
 # [ More domains ]
 example.com
