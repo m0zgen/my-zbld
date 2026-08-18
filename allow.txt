@@ -5,7 +5,7 @@
 /(?:^|\.)googleusercontent\.com$/
 /(?:^|\.)hcaptcha\.com$/
 # /(^|^.*\.)(linkedin|licdn)\.com$/
-/(?:^|\.)yahoo\.com$/
+# /(?:^|\.)yahoo\.com$/
 
 # [ Vendors ]
 # /(?:^|\.)apple\.com$/
