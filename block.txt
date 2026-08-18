@@ -1,10 +1,10 @@
 # Blocked Domains List
 
 # [ Regex rules ]
-/(^|^.*\.)googlesyndication.(com)$/
-/(^|^.*\.)google-analytics.(com)$/
-/(^|^.*\.)example.(com|net)$/
-/(^|^.*\.)ads.adfox.(ru)$/
+/(?:^|\.)googlesyndication\.com$/
+/(?:^|\.)google-analytics\.com$/
+/(?:^|\.)example\.(?:com|net)$/
+/(?:^|\.)ads.adfox\.ru$/
 
 # [ Domains ]
 ad.doubleclick.net
