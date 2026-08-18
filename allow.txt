@@ -1,47 +1,47 @@
 # Allowed Domains List
 
 # [ Global Regex ]
-/(^|^.*\.)google\.(com|net|kz|de|lv)$/
-/(^|^.*\.)googleusercontent\.com$/
-/(^|^.*\.)hcaptcha.(com)$/
+/(?:^|\.)google\.(?:com|net|kz|de|lv)$/
+/(?:^|\.)googleusercontent\.com$/
+/(?:^|\.)hcaptcha\.com$/
 /(^|^.*\.)(linkedin|licdn)\.com$/
-/(^|^.*\.)yahoo\.(com)$/
+/(?:^|\.)yahoo\.com$/
 
 # [ Vendors ]
-/(^|^.*\.)apple\.com$/
-/(^|^.*\.)azure\.com$/
-/(^|^.*\.)microsoft\.com$/
-/(^|^.*\.)microsoftonline\.com$/
-/(^|^.*\.)msn\.com$/
-/(^|^.*\.)x\.com$/
-/(^|^.*\.)twimg\.com$/
+/(?:^|\.)apple\.com$/
+/(?:^|\.)azure\.com$/
+/(?:^|\.)microsoft\.com$/
+/(?:^|\.)microsoftonline\.com$/
+/(?:^|\.)msn\.com$/
+/(?:^|\.)x\.com$/
+/(?:^|\.)twimg\.com$/
 
 # [ Yandex ]
-# /(^|^.*\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
-# /(^|^.*\.)yandex\.com\.(ru|tr)$/
-/(^|^.*\.)yandex-net\.ru$/
-/(^|^.*\.)yastatic\.net$/
-/(^|^.*\.)yandexgo\.com$/
-/(^|^.*\.)ya\.ru$/
-/(^|^.*\.)yandex-bank\.net$/
+# /(^|^.*\.)yandex\.(?:by|com|kz|net|ru|st|ua|uz)$/
+# /(^|^.*\.)yandex\.com\.(?:ru|tr)$/
+/(?:^|\.)yandex-net\.ru$/
+/(?:^|\.)yastatic\.net$/
+/(?:^|\.)yandexgo\.com$/
+/(?:^|\.)ya\.ru$/
+/(?:^|\.)yandex-bank\.net$/
 
 # [ My Services ]
-/(^|^.*\.)openbld.(net)$/
-/(^|^.*\.)sys-adm.(in)$/
-/(^|^.*\.)sysconf.(io)$/
+/(?:^|\.)openbld\.net$/
+/(?:^|\.)sys-adm\.in$/
+/(?:^|\.)sysconf\.io$/
 
 # [ Kz Services ]
-/(^|^.*\.)bankrbk.(kz)$/
-/(^|^.*\.)kaspi.(kz)$/
-/(^|^.*\.)cdn-kaspi\.kz$/
-/(^|^.*\.)egov.(kz)$/
-/(^|^.*\.)gov.(kz)$/
+/(?:^|\.)bankrbk\.kz$/
+/(?:^|\.)kaspi\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)egov\.kz$/
+/(?:^|\.)gov\.kz$/
 
 # [ Domain rules ]
 bitbucket.org
 
 # [ Socials / Jobs ]
-/(^|^.*\.)hh.([a-z]{2,})$/
+/(?:^|\.)hh.([a-z]{2,})$/
 trk.mail.ru
 r3.mail.ru
 st.mycdn.me
