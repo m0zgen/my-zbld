@@ -13,7 +13,7 @@
 # /(?:^|\.)microsoft\.com$/
 /(?:^|\.)microsoftonline\.com$/
 /(?:^|\.)msn\.com$/
-/(?:^|\.)x\.com$/
+# /(?:^|\.)x\.com$/
 /(?:^|\.)twimg\.com$/
 
 # [ Yandex ]
