@@ -306,6 +306,7 @@ insight.adsrvr.org
 # Candidates
 pally.info
 www.pally.info
+sevstar933krop.com
 lnk.ua
 iterm2colorschemes.com
 pzdcflix.ru
