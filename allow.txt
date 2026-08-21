@@ -304,9 +304,10 @@ www.atomicmail.io
 insight.adsrvr.org
 
 # Candidates
+/^vid\d+\.sevstar933krop\.com\.?$/
+sevstar933krop.com
 pally.info
 www.pally.info
-sevstar933krop.com
 lnk.ua
 iterm2colorschemes.com
 pzdcflix.ru
