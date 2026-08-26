@@ -1,6 +1,7 @@
 # Allowed Domains List
 
 # [ Global Regex ]
+/(?:^|\.)1password\.com$/
 /(?:^|\.)accuweather\.com$/
 /(?:^|\.)akamai\.net$/
 /(?:^|\.)apple-dns\.net$/
@@ -36,6 +37,7 @@
 /(?:^|\.)netflix\.com$/
 /(?:^|\.)office365\.com$/
 /(?:^|\.)office\.com$/
+/(?:^|\.)okta\.com$/
 /(?:^|\.)openai\.com$/
 /(?:^|\.)pikabu\.ru$/
 /(?:^|\.)pinterest\.com$/
@@ -162,6 +164,12 @@
 /(?:^|\.)halykfinance\.kz$/
 /(?:^|\.)kaspi\.kz$/
 
+# [ Financial ]
+/(?:^|\.)authorize\.net$/
+/(?:^|\.)paypal.com$/
+/(?:^|\.)stripe\.com$/
+/(?:^|\.)tbank\.ru$/
+
 # [ Socials / Jobs ]
 /(^|^.*\.)hh.([a-z]{2,})$/
 cdn.dzen.ru
@@ -246,7 +254,6 @@ www.scan.page
 123apps.com
 www,123apps.com
 cdn.shortpixel.ai
-# sage-collector.tbank.ru
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
