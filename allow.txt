@@ -256,6 +256,9 @@ www,123apps.com
 cdn.shortpixel.ai
 ahrefs.com
 www.ahrefs.com
+# xbox
+inference.location.live.net
+cl-glcb907925.gcdn.co
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
@@ -315,6 +318,7 @@ insight.adsrvr.org
 
 # Candidates
 /^vid\d+\.sevstar933krop\.com\.?$/
+/^cl-glcb\d+\.gcdn\.co\.?$/
 sevstar933krop.com
 pally.info
 www.pally.info
