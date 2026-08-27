@@ -254,6 +254,8 @@ www.scan.page
 123apps.com
 www,123apps.com
 cdn.shortpixel.ai
+ahrefs.com
+www.ahrefs.com
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
