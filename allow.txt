@@ -259,6 +259,9 @@ www.ahrefs.com
 # xbox
 inference.location.live.net
 cl-glcb907925.gcdn.co
+# Bank
+qmb724.ir
+www.qmb724.ir
 
 # Test permanent
 # /(?:^|\.)akadns\.net$/
