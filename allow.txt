@@ -46,6 +46,7 @@
 /(?:^|\.)t\.me$/
 /(?:^|\.)telegram\.org$/
 /(?:^|\.)tiktok\.com$/
+/^p\d+-tiktok-dm-sticker-sign-sg\.ibyteimg\.com$/
 /(?:^|\.)tiktokcdn\.com$/
 /(?:^|\.)tiktokv\.com$/
 /(?:^|\.)ttwstatic\.com$/
