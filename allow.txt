@@ -330,6 +330,7 @@ www.pally.info
 lnk.ua
 iterm2colorschemes.com
 pzdcflix.ru
+m.pzdcflix.ru
 www.pzdcflix.ru
 # iot-in-logser.realme.com
 client-uc.heytapmobi.com
