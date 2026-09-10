@@ -332,6 +332,8 @@ iterm2colorschemes.com
 pzdcflix.ru
 m.pzdcflix.ru
 www.pzdcflix.ru
+boosty.to
+www.boosty.to
 # iot-in-logser.realme.com
 client-uc.heytapmobi.com
 
