@@ -84,7 +84,7 @@
 /(?:^|\.)steampowered\.com$/
 /(?:^|\.)twitch\.tv$/
 /(?:^|\.)twitter\.com$/
-/(?:^|\.)vk\.com$/
+/(?:^|\.)vk\.(?:ru|com)$/
 /(?:^|\.)whatsapp\.com$/
 /(?:^|\.)wikipedia\.org$/
 /(?:^|\.)wildberries\.(?:eu|ru|by)$/
