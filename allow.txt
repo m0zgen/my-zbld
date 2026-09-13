@@ -336,13 +336,24 @@ pally.info
 www.pally.info
 lnk.ua
 iterm2colorschemes.com
-pzdcflix.ru
-m.pzdcflix.ru
-www.pzdcflix.ru
 boosty.to
 www.boosty.to
 # iot-in-logser.realme.com
 client-uc.heytapmobi.com
+#
+pzdcflix.ru
+m.pzdcflix.ru
+www.pzdcflix.ru
+edge1.pzdcflix.ru
+edge2.pzdcflix.ru
+edge3.pzdcflix.ru
+edge4.pzdcflix.ru
+edge5.pzdcflix.ru
+edge6.pzdcflix.ru
+edge7.pzdcflix.ru
+edge8.pzdcflix.ru
+edge9.pzdcflix.ru
+edge10.pzdcflix.ru
 
 # Testingcatalog img src
 storage.ghost.io
