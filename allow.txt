@@ -354,6 +354,9 @@ edge7.pzdcflix.ru
 edge8.pzdcflix.ru
 edge9.pzdcflix.ru
 edge10.pzdcflix.ru
+pzdcflix.live
+m.pzdcflix.live
+www.pzdcflix.live
 
 # Testingcatalog img src
 storage.ghost.io
