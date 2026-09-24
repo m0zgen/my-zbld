@@ -79,6 +79,7 @@ chernomaza.link
 vertiguzha.link
 krasnomaga.link
 tazaromikaz.link
+shaloburda.link
 
 # Adblocker detector and Ad loader
 # /(?:^|\.)stg.html-load\.com$/
