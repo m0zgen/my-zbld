@@ -340,6 +340,8 @@ boosty.to
 www.boosty.to
 # iot-in-logser.realme.com
 client-uc.heytapmobi.com
+careersit.co.za
+www.careersit.co.za
 #
 pzdcflix.ru
 m.pzdcflix.ru
