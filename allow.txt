@@ -260,6 +260,8 @@ www.ahrefs.com
 # xbox
 inference.location.live.net
 cl-glcb907925.gcdn.co
+# Smartpoint
+neo.tildacdn.com
 
 # Bank
 /(?:^|\.)qmb724\.ir$/
