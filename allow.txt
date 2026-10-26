@@ -347,6 +347,7 @@ www.careersit.co.za
 #
 oaiusercontent.com
 files.oaiusercontent.com
+sdmntprcentralindia.oaiusercontent.com
 #
 pzdcflix.ru
 m.pzdcflix.ru
