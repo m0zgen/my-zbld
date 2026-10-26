@@ -345,6 +345,9 @@ client-uc.heytapmobi.com
 careersit.co.za
 www.careersit.co.za
 #
+oaiusercontent.com
+files.oaiusercontent.com
+#
 pzdcflix.ru
 m.pzdcflix.ru
 www.pzdcflix.ru
