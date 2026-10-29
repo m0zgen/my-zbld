@@ -269,6 +269,13 @@ i.ibb.co
 grindr.com
 www.grindr.com
 grindr.mobi
+onetrust.io
+mobile-data.onetrust.io
+cdn.cookielaw.org
+openstreetmap.org
+tile.openstreetmap.org
+mapbox.com
+tiles.mapbox.com
 
 # Bank
 /(?:^|\.)qmb724\.ir$/
