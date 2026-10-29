@@ -265,6 +265,10 @@ neo.tildacdn.com
 # Img hosting
 ibb.co
 i.ibb.co
+# Dating
+grindr.com
+www.grindr.com
+grindr.mobi
 
 # Bank
 /(?:^|\.)qmb724\.ir$/
