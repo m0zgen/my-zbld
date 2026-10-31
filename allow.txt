@@ -46,6 +46,14 @@ r3.mail.ru
 st.mycdn.me
 trk.mail.ru
 
+# [ Regular ]
+
+## [ Gettrade ]
+gettrade.ai
+www.gettrade.ai
+feedback.gettrade.ai
+staging.gettrade.ai
+
 # Test permanent
 # /(^|^.*\.)akadns\.net$/
 # /(^|^.*\.)fastly\.net$/
