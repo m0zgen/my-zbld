@@ -1,0 +1,372 @@
+# Allowed Domains List
+
+# [ Global Regex ]
+/(?:^|\.)apple\.(map\.fastly|com\.akadns)\.net$/
+/(?:^|\.)cdn\.whatsapp\.net$/
+/(?:^|\.)google\.(com|net|kz|de|lv)$/
+/(?:^|\.)ivi\.(ru|tv)$/
+/(?:^|\.)t\.me$/
+/(?:^|\.)x\.com$/
+/^p\d+-tiktok-dm-sticker-sign-sg\.ibyteimg\.com$/
+
+# [ Global ]
+@1password.com
+@accuweather.com
+@akamai.net
+@apple-dns.net
+@apple.com
+@azure.com
+@binance.com
+@bing.com$
+@byteoversea.com
+@cdnvideo.ru
+@chatgpt.com
+@cloudflare.com
+@facebook.com
+@facebook.net
+@fbcdn.net
+@ggpht.com
+@gmail.com
+@googleusercontent.com
+@gstatic.com
+@hcaptcha.com
+@icloud.com
+@instagram.com
+@kinopoisk.ru
+@licdn.com
+@linkedin.com
+@live.com
+@microsoft.com
+@microsoftonline.com
+@msn.com
+@nessus.org
+@netflix.com
+@office365.com
+@office.com
+@okta.com
+@openai.com
+@pikabu.ru
+@pinterest.com
+@powerbi.com
+@sharepoint.com
+@telegram.org
+@tiktok.com
+@tiktokcdn.com
+@tiktokv.com
+@ttwstatic.com
+@twimg.com
+@weather.com
+@yahoo.com
+@youtu.be
+@zoom.us
+
+# From Lua
+/(?:^|\.)amazon\.(?:com|de)$/
+/(?:^|\.)avito\.(?:ru|st)$/
+/(?:^|\.)vk\.(?:ru|com)$/
+/(?:^|\.)wildberries\.(?:eu|ru|by)$/
+/(?:^|\.)yandex\.(?:md|cloud)$/
+
+@booking\.com$/
+@canva\.com$/
+@chatgpt\.com$/
+@discord\.com$/
+@duckduckgo\.com$/
+@ebay\.com$/
+@googleblog\.com$/
+@investing\.com$/
+@lg\.com$/
+@lgtvcommon\.com$/
+@medium\.com$/
+@office365\.net$/
+@opera\.com$/
+@quora\.com$/
+@qwant\.com$/
+@reddit\.com$/
+@roblox\.com$/
+@samsung\.com$/
+@snapchat\.com$/
+@spotify\.com$/
+@steamcommunity\.com$/
+@steampowered\.com$/
+@twitch\.tv$/
+@twitter\.com$/
+@whatsapp\.com$/
+@wikipedia\.org$/
+
+# https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#skype-for-business-online-and-microsoft-teams
+# [ Microsoft ]
+@aadrm\.com$/
+@acompli\.net$/
+@activity\.windows\.com$/
+@aka\.ms$/
+@azure-apim\.net$/
+@azurerms\.com$/
+@cloud\.microsoft$/
+@cortana\.ai$/
+@entrust\.net$/
+@flow\.microsoft\.com$/
+@geotrust\.com$/
+@informationprotection\.azure\.com$/
+@lync\.com$/
+@microsoftusercontent\.com$/
+@msocdn\.com$/
+@officeapps\.live\.com$/
+@omniroot\.com$/
+@onenote\.com$/
+@online\.office\.com$/
+@onmicrosoft\.com$/
+@outlookmobile\.com$/
+@powerapps\.com$/
+@powerautomate\.com$/
+@public-trust\.com$/
+@search\.production\.apac\.trafficmanager\.net$/
+@search\.production\.emea\.trafficmanager\.net$/
+@search\.production\.us\.trafficmanager\.net$/
+@secure\.skypeassets\.com$/
+@sharepointonline\.com$/
+@skype\.com$/
+@static\.microsoft$/
+@svc\.ms$/
+@symcb\.com$/
+@symcd\.com$/
+@teams\.cloud\.microsoft$/
+@teams\.microsoft\.com$/
+@usercontent\.microsoft$/
+@verisign\.com$/
+@verisign\.net$/
+@virtualearth\.net$/
+@wns\.windows\.com$/
+@yammer\.com$/
+@yammerusercontent\.com$/
+
+# [ Yandex ]
+/(?:^|\.)yandex\.(by|com|kz|net|ru|st|ua|uz)$/
+/(?:^|\.)yandex\.com\.(ru|tr)$/
+/(?:^|\.)webvisor\.(com|org)$/
+
+@mc\.admetrica\.ru$/
+@ya\.ru$/
+@yandex-bank\.net$/
+@yandex-net\.ru$/
+@yandexgo\.com$/
+@yandexmetrica\.com$/
+@yastatic\.net$/
+
+# [ My Services ]
+@openbld\.net$/
+@sys-adm\.in$/
+@sysconf\.io$/
+
+# [ Kz Services ]
+/(?:^|\.)gov\.(kz|by|ru|uz|kg|uk|cn|it)$/
+/(?:^|\.)bankrbk\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)egov\.kz$/
+/(?:^|\.)eubank\.kz$/
+
+/(?:^|\.)gov\.kz$/
+/(?:^|\.)halykbank\.kz$/
+/(?:^|\.)halykfinance\.kz$/
+/(?:^|\.)kaspi\.kz$/
+
+# [ Financial ]
+/(?:^|\.)authorize\.net$/
+/(?:^|\.)paypal.com$/
+/(?:^|\.)stripe\.com$/
+/(?:^|\.)tbank\.ru$/
+
+# [ Socials / Jobs ]
+/(^|^.*\.)hh.([a-z]{2,})$/
+cdn.dzen.ru
+email.kisnetorg.myenotice.com
+log.dzen.ru
+r3.mail.ru
+st.mycdn.me
+trk.mail.ru
+
+# [ Games ]
+/(?:^|\.)appcenter\.ms$/
+/(?:^|\.)easebar\.com$/
+/(?:^|\.)pvp\.net$/
+/(?:^|\.)riotcdn\.net$/
+/(?:^|\.)xboxlive\.com$/
+# bytegsdk.com
+# www.bytegsdk.com
+bsdk-sg.bytegsdk.com
+gsdk-va.bytegsdk.com
+log-va.bytegsdk.com
+
+# Unity
+/(?:^|\.)cloud\.unity3d\.com$/
+/(?:^|\.)ecommerce\.iap\.unity3d\.com$/
+/(?:^|\.)internal\.unity3d\.com$/
+/(?:^|\.)isx\.unity3d\.com$/
+/(?:^|\.)mediation\.unity3d\.com$/
+/(?:^|\.)mz\.unity3d\.com$/
+/(?:^|\.)offerwall\.unity3d\.com$/
+/(?:^|\.)stats\.unity3d\.com$/
+
+# Testing
+operate-sdk-telemetry.unity3d.com
+collect.analytics.unity3d.com
+# Kaspi.kz fix screen resolving
+crashlyticsreports-pa.googleapis.com
+app-analytics-services.com
+
+# Platforms
+# Clickup
+/(?:^|\.)calltouch\.ru$/
+amway-cdn.exponea.com
+analytics.ringostat.net
+api.mixpanel.com
+app.pendo.io
+cdn.firstpromoter.com
+cdn.pdst.fm
+cdn.pendo.io
+ct.capterra.com
+exponea.com
+firstpromoter.com
+medallia.com
+pendo.io
+sp.pcoptimum.ca
+static.hotjar.com
+survey.medallia.com
+www.exponea.com
+www.medallia.com
+
+# Sharing
+share.google
+www.share.google
+tiny.cc
+www.tiny.cc
+
+# [ Services ]
+/(?:^|\.)ntp\.org$/
+/(?:^|\.)[a-z]+\.root-servers\.net$/
+
+joindns4.eu
+www.joindns4.eu
+
+# [ WL Candidates ]
+onthe.io
+www.onthe.io
+hst.sh
+www.hst.sh
+imgpx.com
+www.imgpx.com
+scan.page
+www.scan.page
+123apps.com
+www.123apps.com
+cdn.shortpixel.ai
+ahrefs.com
+www.ahrefs.com
+# xbox
+inference.location.live.net
+cl-glcb907925.gcdn.co
+# Smartpoint
+neo.tildacdn.com
+# Img hosting
+ibb.co
+i.ibb.co
+# Dating
+grindr.com
+www.grindr.com
+grindr.mobi
+onetrust.io
+mobile-data.onetrust.io
+cdn.cookielaw.org
+openstreetmap.org
+tile.openstreetmap.org
+mapbox.com
+tiles.mapbox.com
+
+# Bank
+/(?:^|\.)qmb724\.ir$/
+/(?:^|\.)qmehr724\.com$/
+
+# Test permanent
+# /(?:^|\.)akadns\.net$/
+# /(?:^|\.)fastly\.net$/
+ithub.global.ssl.fastly.net
+
+# /(^|^.*\.)unity3d\.com$/
+# googlesyndication.com
+#/(^|^[a-z]{2,}\.)googleadservices\.com$/
+/(?:^|\.)akamai\.net$/
+/(^|^ad\.)doubleclick\.net$/
+www.googleadservices.com
+googleadservices.com
+optimizationguide-pa.googleapis.com
+# static.cloudflareinsights.com
+
+# Testing
+/^static\d?\.smi2\.net$/
+dullwave.ru
+lobfile.com
+telemetry.elastic.co
+
+v2.plrjs.org
+v3.pjstat.com
+
+assets-jpcust.jwpsrv.com
+
+# Quantum
+cache.amp.vg
+
+# LightNode mail links
+pstmrk.it
+click.pstmrk.it
+dit.whatsapp.net
+go.skimresources.com
+skimresources.com
+cdn.prod.website-files.com
+
+# LG App store
+/(?:^|\.)lgtvlink\.com$/
+/(?:^|\.)nextlgsdp\.com$/
+eic-ngfts.lge.com
+# kz.nextlgsdp.com
+
+# Link shorts
+view.page
+www.view.page
+hubs.ly
+www.hubs.ly
+
+# Mail parking
+atomicmail.io
+www.atomicmail.io
+
+# TechCrunch correctly works
+insight.adsrvr.org
+
+# Candidates
+/^vid\d+\.sevstar933krop\.com\.?$/
+/^cl-glcb\d+\.gcdn\.co\.?$/
+sevstar933krop.com
+pally.info
+www.pally.info
+lnk.ua
+iterm2colorschemes.com
+boosty.to
+www.boosty.to
+# iot-in-logser.realme.com
+client-uc.heytapmobi.com
+careersit.co.za
+www.careersit.co.za
+#
+oaiusercontent.com
+files.oaiusercontent.com
+sdmntprcentralindia.oaiusercontent.com
+#
+@pzdcflix.ru
+
+# Testingcatalog img src
+storage.ghost.io
+
+# Remove candidates
+
+# end
