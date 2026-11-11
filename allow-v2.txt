@@ -1,0 +1,65 @@
+# Allowed Domains List
+
+# [ Global Regex ]
+# /(?:^|\.)google\.(?:com|net|kz|de|lv)$/
+/(?:^|\.)googleusercontent\.com$/
+/(?:^|\.)hcaptcha\.com$/
+# /(^|^.*\.)(linkedin|licdn)\.com$/
+# /(?:^|\.)yahoo\.com$/
+
+# [ Vendors ]
+# /(?:^|\.)apple\.com$/
+/(?:^|\.)azure\.com$/
+# /(?:^|\.)microsoft\.com$/
+/(?:^|\.)microsoftonline\.com$/
+/(?:^|\.)msn\.com$/
+# /(?:^|\.)x\.com$/
+/(?:^|\.)twimg\.com$/
+
+# [ Yandex ]
+# /(^|^.*\.)yandex\.(?:by|com|kz|net|ru|st|ua|uz)$/
+# /(^|^.*\.)yandex\.com\.(?:ru|tr)$/
+/(?:^|\.)yandex-net\.ru$/
+/(?:^|\.)yastatic\.net$/
+/(?:^|\.)yandexgo\.com$/
+/(?:^|\.)ya\.ru$/
+/(?:^|\.)yandex-bank\.net$/
+
+# [ My Services ]
+/(?:^|\.)openbld\.net$/
+/(?:^|\.)sys-adm\.in$/
+/(?:^|\.)sysconf\.io$/
+
+# [ Kz Services ]
+/(?:^|\.)bankrbk\.kz$/
+/(?:^|\.)kaspi\.kz$/
+/(?:^|\.)cdn-kaspi\.kz$/
+/(?:^|\.)egov\.kz$/
+/(?:^|\.)gov\.kz$/
+
+# [ Domain rules ]
+bitbucket.org
+
+# [ Socials / Jobs ]
+/(?:^|\.)hh.([a-z]{2,})$/
+r3.mail.ru
+st.mycdn.me
+trk.mail.ru
+
+# [ Regular ]
+
+## [ Gettrade ]
+gettrade.ai
+www.gettrade.ai
+feedback.gettrade.ai
+staging.gettrade.ai
+
+# Test permanent
+# /(^|^.*\.)akadns\.net$/
+# /(^|^.*\.)fastly\.net$/
+# /(^|^.*\.)unity3d\.com$/
+# /(^|^[a-z]{2,}\.)googleadservices\.com$/
+# /(^|^ad\.)doubleclick\.net$/
+# googlesyndication.com
+/(^|^.*\.)akamai\.net$/
+/(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$/
