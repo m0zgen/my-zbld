@@ -344,7 +344,11 @@ spooflens.com
 www.spooflens.com
 
 # AWS Route 53
-/^ns-[0-9]+\.awsdns-[0-9]+\.(?:com|net|org|co\.uk)$/
+# /^ns-[0-9]+\.awsdns-[0-9]+\.(?:com|net|org|co\.uk)$/
+/^ns-[0-9]+\.awsdns-[0-9]+\.com$/
+/^ns-[0-9]+\.awsdns-[0-9]+\.net$/
+/^ns-[0-9]+\.awsdns-[0-9]+\.org$/
+/^ns-[0-9]+\.awsdns-[0-9]+\.co\.uk$/
 
 # [ End WL Candidates ]
 
