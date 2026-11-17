@@ -298,6 +298,7 @@ safebrowsing.googleapis.com
 safebrowsingohttpgateway.googleapis.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
+ohttp-relay-safebrowsing-android.google.fastly-edge.com
 
 # WPS Office
 update.wps.cn
