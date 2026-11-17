@@ -19,13 +19,9 @@
 
 @1password.com
 @accuweather.com
-@akamai.net
 @amazon.com
 @amazon.de
 @apple-dns.net
-@apple.com
-@apple.com.akadns.net
-@apple.map.fastly.net
 @avito.ru
 @avito.st
 @azure.com
@@ -36,9 +32,6 @@
 @canva.com
 @cdn.whatsapp.net
 @cdnvideo.ru
-@chatgpt.com
-@chatgpt.com
-@cloudflare.com
 @discord.com
 @duckduckgo.com
 @ebay.com
@@ -47,7 +40,6 @@
 @fbcdn.net
 @ggpht.com
 @gmail.com
-@google.com
 @google.de
 @google.kz
 @google.lv
@@ -55,7 +47,6 @@
 @googleblog.com
 @googleusercontent.com
 @gstatic.com
-@hcaptcha.com
 @icloud.com
 @instagram.com
 @investing.com
@@ -64,28 +55,20 @@
 @kinopoisk.ru
 @lg.com
 @lgtvcommon.com
-@licdn.com
-@linkedin.com
 @live.com
 @medium.com
 @microsoft.com
 @microsoftonline.com
 @msn.com
-@nessus.org
 @netflix.com
 @office.com
-@office365.com
 @office365.net
 @okta.com
-@openai.com
-@opera.com
-@pikabu.ru
 @pinterest.com
 @powerbi.com
 @quora.com
 @qwant.com
 @reddit.com
-@roblox.com
 @samsung.com
 @sharepoint.com
 @snapchat.com
@@ -97,19 +80,15 @@
 @tiktok.com
 @tiktokcdn.com
 @tiktokv.com
-@ttwstatic.com
-@twimg.com
 @twitch.tv
 @twitter.com
 @vk.com
 @vk.ru
-@weather.com
 @whatsapp.com
 @wikipedia.org
 @wildberries.by
 @wildberries.eu
 @wildberries.ru
-@x.com
 @yahoo.com
 @yandex.cloud
 @yandex.md
@@ -129,7 +108,6 @@
 @azurerms.com
 @cloud.microsoft
 @cortana.ai
-@entrust.net
 @flow.microsoft.com
 @geotrust.com
 @informationprotection.azure.com
@@ -145,20 +123,15 @@
 @powerapps.com
 @powerautomate.com
 @public-trust.com
-@search.production.apac.trafficmanager.net
-@search.production.emea.trafficmanager.net
-@search.production.us.trafficmanager.net
 @secure.skypeassets.com
 @sharepointonline.com
 @skype.com
 @static.microsoft
 @svc.ms
 @symcb.com
-@symcd.com
 @teams.cloud.microsoft
 @teams.microsoft.com
 @usercontent.microsoft
-@verisign.com
 @verisign.net
 @virtualearth.net
 @wns.windows.com
@@ -168,15 +141,6 @@
 # ----------------------------------------------------------------------
 # [ Yandex ]
 # ----------------------------------------------------------------------
-
-@yandex.by
-@yandex.com
-@yandex.kz
-@yandex.net
-@yandex.ru
-@yandex.st
-@yandex.ua
-@yandex.uz
 
 @yandex.com.ru
 @yandex.com.tr
@@ -196,30 +160,16 @@
 # [ My Services ]
 # ----------------------------------------------------------------------
 
-@openbld.net
-@sys-adm.in
 @sysconf.io
 
 # ----------------------------------------------------------------------
 # [ Gov, Financial ]
 # ----------------------------------------------------------------------
 
-@gov.by
-@gov.cn
-@gov.it
-@gov.kg
-@gov.kz
-@gov.ru
-@gov.uk
-@gov.uz
-
-@bankrbk.kz
 @cdn-kaspi.kz
 @egov.kz
 @eubank.kz
-@halykbank.kz
 @halykfinance.kz
-@kaspi.kz
 
 @authorize.net
 @paypal.com
@@ -232,8 +182,6 @@
 # ----------------------------------------------------------------------
 # [ Socials / Jobs ]
 # ----------------------------------------------------------------------
-
-/(^|^.*\.)hh\.([a-z]{2,})$/
 
 cdn.dzen.ru
 email.kisnetorg.myenotice.com
@@ -334,9 +282,6 @@ www.hubs.ly
 # ----------------------------------------------------------------------
 # [ Services ]
 # ----------------------------------------------------------------------
-
-@ntp.org
-@root-servers.net
 
 joindns4.eu
 www.joindns4.eu
