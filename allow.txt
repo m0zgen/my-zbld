@@ -280,23 +280,62 @@ tiles.mapbox.com
 kaspersky-labs.com
 ksn-a-stat-geo.kaspersky-labs.com
 ncc.avast.com
+
 # office
+# Windows, macOS и локальная сеть (mDNS / DNS-SD / Remote Assistance)
 adl.windows.com
+cache.datamart.windows.com
+cxcs.microsoft.net
+
+# Облачная балансировка (Azure Front Door) и безопасность браузеров
+moiafdaws.clo.footprintdns.com
+moiafdazure.clo.footprintdns.com
+moiazureorigin.clo.footprintdns.com
+tring.clo.footprintdns.com
+fp-afd.azureedge.us
+fp-afd.azurefd.us
 safebrowsing.googleapis.com
 safebrowsingohttpgateway.googleapis.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
-api.hubapi.com
-cdn-ru.bitrix24.ru
-widget.cloudpayments.ru
-s-cdn.
+
 # WPS Office
 update.wps.cn
 dw-online.ksosoft.com
-vipapi.wps.cn
-pcfg.wps.cn
-platform.wondershare.com
+# vipapi.wps.cn
+# pcfg.wps.cn
+# honeycomb.wpscdn.cn
+
+# Vendors (Cisco, Siemens, Lenovo, Logitech)
+# cc-api-data.adobe.io
+ic.adobe.io
+geo-dc.adobe.com
+geo2.adobe.com
+p.typekit.net
+damassets.autodesk.com
+# platform.wondershare.com
 w3.siemens.com
+dsc.cisco.com
+# laserver.logitech.io
+# msg.csw.lenovo.com
+
+# SaaS, CRM, AI, платежи и коммуникации
+api.hubapi.com
+cdn-ru.bitrix24.ru
+widget.cloudpayments.ru
+m.stripe.network
+s-cdn.anthropic.com
+abacus.ai
+sierra.chat
+telegram.dog
+stun.voiparound.com
+
+# Региональные сервисы и корпоративные API (Казахстан / СНГ)
+quwatt.kz
+advisor.api.2gis.ru
+s1.bss.2gis.com
+
+# [ End WL Candidates ]
 
 # Bank
 /(?:^|\.)qmb724\.ir$/
