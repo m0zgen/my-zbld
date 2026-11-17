@@ -282,6 +282,27 @@ openstreetmap.org
 tile.openstreetmap.org
 mapbox.com
 tiles.mapbox.com
+# av
+kaspersky-labs.com
+ksn-a-stat-geo.kaspersky-labs.com
+ncc.avast.com
+# office
+adl.windows.com
+safebrowsing.googleapis.com
+safebrowsingohttpgateway.googleapis.com
+google-ohttp-relay-safebrowsing.fastly-edge.com
+ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
+api.hubapi.com
+cdn-ru.bitrix24.ru
+widget.cloudpayments.ru
+s-cdn.
+# WPS Office
+update.wps.cn
+dw-online.ksosoft.com
+vipapi.wps.cn
+pcfg.wps.cn
+platform.wondershare.com
+w3.siemens.com
 
 # Bank
 /(?:^|\.)qmb724\.ir$/
