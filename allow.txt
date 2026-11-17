@@ -53,6 +53,8 @@ gettrade.ai
 www.gettrade.ai
 feedback.gettrade.ai
 staging.gettrade.ai
+blackfoxvr.com
+www.blackfoxvr.com
 
 # Test permanent
 # /(^|^.*\.)akadns\.net$/
