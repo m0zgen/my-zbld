@@ -338,6 +338,13 @@ s1.bss.2gis.com
 # Evt
 ip.sb
 api.ip.sb
+mdlcloud.ru
+fcsport63.ru
+spooflens.com
+www.spooflens.com
+
+# AWS Route 53
+/^ns-[0-9]+\.awsdns-[0-9]+\.(?:com|net|org|co\.uk)$/
 
 # [ End WL Candidates ]
 
