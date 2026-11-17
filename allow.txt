@@ -335,6 +335,10 @@ quwatt.kz
 advisor.api.2gis.ru
 s1.bss.2gis.com
 
+# Evt
+ip.sb
+api.ip.sb
+
 # [ End WL Candidates ]
 
 # Bank
