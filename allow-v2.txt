@@ -186,6 +186,7 @@ r3.mail.ru
 st.mycdn.me
 trk.mail.ru
 @pzdcflix.ru
+@pzdcflix.live
 
 # ----------------------------------------------------------------------
 # [ Games ]
