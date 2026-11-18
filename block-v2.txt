@@ -1,0 +1,87 @@
+# Blocked Domains List
+
+# [ Regex rules ]
+@googlesyndication.com
+@google-analytics.com
+@ads.adfox.ru
+@jddebug.com
+
+@dotnxdomain.net
+@dotaplabs.net
+@zbcmefhenc.cc
+
+# Deprecated
+# http://www.wpbl.info/
+# The WPBL nameservers now point to dummy TEST-NET addresses which will result in lookup errors and timeouts.
+# Please remove WPBL from your configuration files.
+@wpbl.info
+
+# [ Domain rules ]
+ad.doubleclick.net
+ads.linkedin.com
+an.yandex.ru
+analytics-sg.tiktok.com
+analytics.pointdrive.linkedin.com
+analytics.tiktok.com
+appmetrica.yandex.com
+doubleclick.net
+euc-word-telemetry.officeapps.live.com
+ssl.google-analytics.com
+
+# [ More domains ]
+cdn.asp.events
+
+# [ Testing ]
+yt3.ggpht.com
+mediation.goog
+
+# [ A - B ]
+super-test-domain-2026.com
+zuper-test-domain.com
+
+adservice.google.com
+an.facebook.com
+
+api.rstprgapipt.com
+/(?:^|\.)agl008\.shop$/
+
+# [ Suspicious ]
+/(?i)^[a-z0-9.-]*firefox[a-z0-9.-]*\.cn$/
+@yandex-team.kz
+@sparkchain.ai
+@hola.org
+dealdazzle.com
+api.dealdazzle.com
+solidfiles.com
+www.solidfiles.com
+gma.zc2tv.com
+cdnetworks.zc2tv.com
+cdn.siftscience.com
+hxhamster.com
+
+# Social
+tr.snapchat.com
+pixel.quora.com
+api.partnerstack.com
+go.skimresources.com
+redirector.skimresources.com
+click.linksynergy.com
+dai.google.com
+ads.vk.com
+
+# Vid ad
+@adport.net
+kleveromal.link
+zamorokeharu.link
+tazaromikaz.link
+gromoboyara.link
+chernomaza.link
+vertiguzha.link
+krasnomaga.link
+tazaromikaz.link
+shaloburda.link
+myagkotela.link
+
+# Adblocker detector and Ad loader
+# /(?:^|\.)stg.html-load\.com$/
+
