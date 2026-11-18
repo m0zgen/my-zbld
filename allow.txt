@@ -456,6 +456,8 @@ pzdcflix.live
 m.pzdcflix.live
 www.pzdcflix.live
 
+lt27.de
+
 # Testingcatalog img src
 storage.ghost.io
 
