@@ -18,6 +18,12 @@
 @amazon.com
 @amazon.de
 @apple-dns.net
+@apple.map.fastly.net
+@idms-apple.com.akadns.net
+@itunes-apple.com.akadns.net
+@ls-apple.com.akadns.net
+@origin-apple.com.akadns.net
+@push-apple.com.akadns.net
 @avito.ru
 @avito.st
 @azure.com
@@ -59,6 +65,7 @@
 @netflix.com
 @office.com
 @office365.net
+@m365.cloud.microsoft
 @okta.com
 @pinterest.com
 @powerbi.com
@@ -75,6 +82,7 @@
 @telegram.org
 @tiktok.com
 @tiktokcdn.com
+@ttwstatic.com
 @tiktokv.com
 @twitch.tv
 @twitter.com
