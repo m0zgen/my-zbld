@@ -461,28 +461,7 @@ lt27.de
 # Testingcatalog img src
 storage.ghost.io
 
-# Ads transport
-# /(?:^|\.)luxcdn\.com$/
-# ads.adfox.ru
-
-# Remove candidates
-# File sh
-# gofile.io@
-# www.gofile.io
-
-# venture
-#venturewthrift.com
-#www.venturewthrift.com
-
-# Num D triggers
-#secu100.net
-#www.secu100.net
-#pub-cfg.secu100.net
-#opt360.net
-#pkg.opt360.net
-#sport2000.fr
-#www.sport2000.fr
-#int08h.com
-#roughtime.int08h.com
+theapplewiki.com
+www.theapplewiki.com
 
 # end
