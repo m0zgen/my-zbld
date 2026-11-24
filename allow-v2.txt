@@ -430,6 +430,8 @@ www.spooflens.com
 
 # 
 lt27.de
+theapplewiki.com
+www.theapplewiki.com
 
 # RECHECK NEEDED
 # ----------------------------------------------------------------------
